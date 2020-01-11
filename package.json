@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "patterns-guide",
+    "description": "📘 Podręcznik nt. technologii patterns-guide",
+    "version": "0.0.0",
+    "license": "MIT",
+    "author": {
+        "name": "Piotr Kowalski",
+        "email": "piecioshka@gmail.com",
+        "url": "https://piecioshka.pl/"
+    },
+    "scripts": {
+        "test": "npm run lint",
+        "lint": "markdownlint . --ignore node_modules --ignore _sidebar.md --ignore _navbar.md",
+        "build:pdf": "docsify-pdf-converter"
+    },
+    "devDependencies": {
+        "docsify-pdf-converter": "^2.0.7"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/piecioshka/patterns-guide.git"
+    }
+}
