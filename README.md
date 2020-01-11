@@ -1,3 +1,3 @@
 # patterns-guide
 
-📘 Podręcznik nt. technologii patterns-guide
+📘 Guide through **Design Patterns**.

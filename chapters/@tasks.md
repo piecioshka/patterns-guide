@@ -1,6 +1,6 @@
-# Zadania
+# Tasks
 
-## 🔥 [Ćwiczenie] pt. _XXX_
+## 🔥 [Exercise] pt. _XXX_
 
 * ...
 
