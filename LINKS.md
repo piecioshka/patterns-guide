@@ -1,3 +1,0 @@
-# Z czego się uczyłem?
-
-* [ ] ...

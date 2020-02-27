@@ -1,16 +1,16 @@
-// Wzorzec: Singleton
-//
-// http://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript
-// http://www.algorytm.org/wzorce-projektowe/singleton-singleton.html
+// Pattern: Singleton
+
+console.log('%cFile: main.js', 'color: green');
 
 class UniversumManager {
-    constructor(name) {
-        this.name = name;
+    static _instance = null;
 
+    constructor(name) {
         if (UniversumManager._instance) {
             return UniversumManager._instance;
         }
 
+        this.name = name;
         UniversumManager._instance = this;
     }
 
@@ -23,10 +23,10 @@ class UniversumManager {
     }
 }
 
-let um1 = new UniversumManager('Kakarotto');
-let um2 = new UniversumManager('Vegeta');
-let um3 = UniversumManager.getInstance();
-let um4 = UniversumManager.getInstance();
+const um1 = new UniversumManager('Kakarotto');
+const um2 = new UniversumManager('Vegeta');
+const um3 = UniversumManager.getInstance();
+const um4 = UniversumManager.getInstance();
 
 console.log(um1 === um2);
 console.log(um1 === um3);

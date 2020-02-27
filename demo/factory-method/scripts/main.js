@@ -1,15 +1,4 @@
-// Wzorzec: Fabryka
-//
-// http://addyosmani.com/resources/essentialjsdesignpatterns/book/#factorypatternjavascript
-// http://www.algorytm.org/wzorce-projektowe/metoda-wytworcza-factory-method.html
-
-if (!Array.prototype.includes) {
-    Array.prototype.includes = function (array, value) {
-        return array.indexOf(value) !== -1;
-    };
-}
-
-// -----------------------------------------------------------------------------
+// Pattern: Factory Method
 
 class ComputerFactory {
     constructor() {
@@ -38,7 +27,7 @@ class Computer {
 // -----------------------------------------------------------------------------
 
 let computer;
-let cf = new ComputerFactory();
+const cf = new ComputerFactory();
 
 // Append list of produces computers.
 cf.addComputerType('notebook');

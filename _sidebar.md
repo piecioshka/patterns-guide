@@ -11,7 +11,9 @@
             * [Command](chapters/patterns/sdp/sdpb/command.md)
             * [Iterator](chapters/patterns/sdp/sdpb/iterator.md)
             * [Mediator](chapters/patterns/sdp/sdpb/mediator.md)
+            * [Null Object](chapters/patterns/sdp/sdpb/null-object.md)
             * [Observer](chapters/patterns/sdp/sdpb/observer.md)
+            * [PubSub](chapters/patterns/sdp/sdpb/pubsub.md)
             * [Strategy](chapters/patterns/sdp/sdpb/strategy.md)
         - Creational
             * [Abstract Factory](chapters/patterns/sdp/sdpc/abstract-factory.md)
