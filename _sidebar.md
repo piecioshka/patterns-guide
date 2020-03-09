@@ -15,6 +15,7 @@
             * [Observer](chapters/patterns/sdp/sdpb/observer.md)
             * [PubSub](chapters/patterns/sdp/sdpb/pubsub.md)
             * [Strategy](chapters/patterns/sdp/sdpb/strategy.md)
+            * [Template Method](chapters/patterns/sdp/sdpb/template-method.md)
         - Creational
             * [Abstract Factory](chapters/patterns/sdp/sdpc/abstract-factory.md)
             * [Builder](chapters/patterns/sdp/sdpc/builder.md)
