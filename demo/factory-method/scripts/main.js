@@ -32,10 +32,9 @@ const cf = new ComputerFactory();
 // Append list of produces computers.
 cf.addComputerType('notebook');
 cf.addComputerType('pc');
-cf.addComputerType('imac');
 
 computer = cf.createComputer('notebook');
-console.log(computer);
+console.log(computer); // Computer {type: "notebook"}
 
 computer = cf.createComputer('macbook');
-console.log(computer);
+console.log(computer); // null
