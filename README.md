@@ -8,7 +8,7 @@
 * [x] Publish–Subscribe Pattern
 * [x] Null Object Pattern
 * [x] Strategy Pattern
-* [ ] Factory Method
-* [ ] Facade Method
+* [x] Factory Method
+* [x] Facade Method
 * [ ] Proxy
 * [ ] Page Object Model
