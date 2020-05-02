@@ -9,6 +9,6 @@
 * [x] Null Object Pattern
 * [x] Strategy Pattern
 * [x] Factory Method
-* [x] Facade Method
+* [x] Facade
 * [ ] Proxy
 * [ ] Page Object Model
