@@ -1,6 +1,6 @@
 # Software Design Patterns / Creational / Factory Method
 
-> PL: Fabryka
+> PL: Metoda wytwórcza
 
 ## Demo 🎉
 
@@ -10,3 +10,4 @@
 
 * <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#factorypatternjavascript>
 * <http://www.algorytm.org/wzorce-projektowe/metoda-wytworcza-factory-method.html>
+* <https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e>

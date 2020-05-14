@@ -1,8 +1,8 @@
 # patterns-guide
 
-📘 Guide through **Design Patterns**.
+📘 Guide through **Design Patterns** (in JavaScript).
 
-## Popular Patterns
+## Demo projects of popular patterns
 
 * [x] [Facade](https://github.com/piecioshka/patterns-guide/tree/master/demo/facade)
 * [x] [Factory Method](https://github.com/piecioshka/patterns-guide/tree/master/demo/factory-method)
