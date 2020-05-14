@@ -9,3 +9,4 @@
 ## Description
 
 * <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#facadepatternjavascript>
+* PL: <https://frontstack.pl/facade-design-pattern/>
