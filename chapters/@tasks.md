@@ -1,7 +1,9 @@
 # Tasks
 
-## 🔥 [Exercise] pt. _XXX_
+## 🔥 <a href="https://www.facebook.com/events/550742222516496/">WarsawJS Workshop #44</a>
 
-* ...
+During this workshops, we can learn about patterns:
 
-DEMO: <https://github.com/piecioshka/YYY>
+* _Creational_: Factory, Builder
+* _Structural_: Facade, Proxy, Adapter
+* _Behaviour_: Observer, Strategy
