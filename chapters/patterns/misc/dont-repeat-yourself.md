@@ -1,5 +1,7 @@
 # DRY = Don't Repeat Yourself
 
+> PL: TODO
+
 * Wydzielić podobne kawałki kodu do jednej funkcji
 
 TODO

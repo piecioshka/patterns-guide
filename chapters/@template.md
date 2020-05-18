@@ -1,4 +1,4 @@
-# Two-way Data Biding
+# PATTER_NAME
 
 > PL: TODO
 
@@ -10,4 +10,4 @@ TODO
 
 ## Resources
 
-* TODO
+* ...

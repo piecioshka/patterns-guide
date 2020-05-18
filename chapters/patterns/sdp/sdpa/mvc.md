@@ -1,5 +1,7 @@
 # Software Design Patterns / Architectural / MVC
 
+> PL: TODO
+
 ![](../../../../diagrams/mvc/mvc.png)
 
 ## Demo 🎉

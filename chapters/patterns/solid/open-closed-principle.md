@@ -1,4 +1,6 @@
-# Open–closed principle
+# Open Closed principle
+
+> PL: TODO
 
 TODO
 
@@ -8,4 +10,4 @@ TODO
 
 ## Resources
 
-* ...
+* <https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle>

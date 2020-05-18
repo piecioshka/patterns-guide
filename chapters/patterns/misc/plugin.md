@@ -1,5 +1,7 @@
 # Plugin Pattern
 
+> PL: TODO
+
 TODO
 
 ## Demo 🎉
@@ -9,4 +11,4 @@ TODO
 
 ## Resources
 
-* ...
+* <https://github.com/jquery-boilerplate/jquery-patterns/wiki/jQuery-Plugin-Patterns-Guide>

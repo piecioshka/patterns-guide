@@ -1,4 +1,6 @@
-# Interface segregation principle
+# Interface Segregation Principle
+
+> PL: TODO
 
 TODO
 
@@ -8,4 +10,4 @@ TODO
 
 ## Resources
 
-* ...
+* <https://en.wikipedia.org/wiki/Interface_segregation_principle>

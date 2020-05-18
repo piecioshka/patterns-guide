@@ -1,6 +1,6 @@
 # Publish–Subscribe Pattern
 
-> PL: ...
+> PL: TODO
 
 ## Demo 🎉
 

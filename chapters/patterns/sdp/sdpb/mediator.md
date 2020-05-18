@@ -1,5 +1,7 @@
 # Software Design Patterns / Gang of Four Patterns / Behavioral / Mediator
 
+> PL: TODO
+
 TODO
 
 ## Demo 🎉
