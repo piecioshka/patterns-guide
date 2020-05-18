@@ -4,18 +4,31 @@
 
 ## This patterns will be explain on [WarsawJS Workshop #44](https://app.evenea.pl/event/warsawjs-workshop-44)
 
-* [x] [Factory Method](https://github.com/piecioshka/patterns-guide/tree/master/demo/factory-method)
-* [ ] [Builder](https://github.com/piecioshka/patterns-guide/tree/master/demo/builder)
-* [x] [Facade](https://github.com/piecioshka/patterns-guide/tree/master/demo/facade)
-* [ ] [Proxy](https://github.com/piecioshka/patterns-guide/tree/master/demo/proxy)
-* [ ] [Adapter](https://github.com/piecioshka/patterns-guide/tree/master/demo/adapter)
-* [x] [Observer](https://github.com/piecioshka/patterns-guide/tree/master/demo/observer)
-* [x] [Strategy](https://github.com/piecioshka/patterns-guide/tree/master/demo/strategy)
+* [x] [<a href="demo/factory-method/">Demo</a>] [[Code][factory-method]] Factory Method
+* [ ] [<a href="demo/builder/">Demo</a>] [[Code][builder]] Builder
+* [x] [<a href="demo/facade/">Demo</a>] [[Code][facade]] Facade
+* [ ] [<a href="demo/proxy/">Demo</a>] [[Code][proxy]] Proxy
+* [ ] [<a href="demo/adapter/">Demo</a>] [[Code][adapter]] Adapter
+* [x] [<a href="demo/observer/">Demo</a>] [[Code][observer]] Observer
+* [x] [<a href="demo/strategy/">Demo</a>] [[Code][strategy]] Strategy
 
 ## Bonus
 
-* [x] [Mediator](https://github.com/piecioshka/patterns-guide/tree/master/demo/mediator)
-* [x] [MVC](https://github.com/piecioshka/patterns-guide/tree/master/demo/mvc)
-* [x] [Null Object](https://github.com/piecioshka/patterns-guide/tree/master/demo/null-object)
-* [x] [Publish–Subscribe](https://github.com/piecioshka/patterns-guide/tree/master/demo/pubsub)
-* [x] [Singleton](https://github.com/piecioshka/patterns-guide/tree/master/demo/singleton)
+* [x] [[Code][mediator]] Mediator
+* [x] [[Code][mvc]] MVC
+* [x] [[Code][null-object]] Null Object
+* [x] [[Code][pubsub]] Publish–Subscribe
+* [x] [[Code][singleton]] Singleton
+
+[factory-method]: https://github.com/piecioshka/patterns-guide/tree/master/demo/factory-method
+[builder]: https://github.com/piecioshka/patterns-guide/tree/master/demo/builder
+[facade]: https://github.com/piecioshka/patterns-guide/tree/master/demo/facade
+[proxy]: https://github.com/piecioshka/patterns-guide/tree/master/demo/proxy
+[adapter]: https://github.com/piecioshka/patterns-guide/tree/master/demo/adapter
+[observer]: https://github.com/piecioshka/patterns-guide/tree/master/demo/observer
+[strategy]: https://github.com/piecioshka/patterns-guide/tree/master/demo/strategy
+[mediator]: https://github.com/piecioshka/patterns-guide/tree/master/demo/mediator
+[mvc]: https://github.com/piecioshka/patterns-guide/tree/master/demo/mvc
+[null-object]: https://github.com/piecioshka/patterns-guide/tree/master/demo/null
+[pubsub]: https://github.com/piecioshka/patterns-guide/tree/master/demo/pubsub
+[singleton]: https://github.com/piecioshka/patterns-guide/tree/master/demo/singleton

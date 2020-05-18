@@ -18,7 +18,7 @@
         - [You Aren't Gonna Need It](chapters/patterns/misc/you-arent-gonna-need-it.md)
     + SOLID
         - [SRP](chapters/patterns/solid/single-responsibility-principle.md)
-        - [OCP](chapters/patterns/solid/open–closed-principle.md)
+        - [OCP](chapters/patterns/solid/open-closed-principle.md)
         - [LSP](chapters/patterns/solid/liskov-substitution-principle.md)
         - [ISP](chapters/patterns/solid/interface-segregation-principle.md)
         - [DIP](chapters/patterns/solid/dependency-inversion-principle.md)

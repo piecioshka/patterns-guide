@@ -1,7 +1,7 @@
 {
     "private": true,
     "name": "patterns-guide",
-    "description": "📘 Podręcznik nt. technologii patterns-guide",
+    "description": "📘 Guide through Design Patterns (in JavaScript)",
     "version": "0.0.0",
     "license": "MIT",
     "author": {
@@ -15,7 +15,8 @@
         "build:pdf": "docsify-pdf-converter"
     },
     "devDependencies": {
-        "docsify-pdf-converter": "^2.0.7"
+        "docsify-pdf-converter": "^2.0.7",
+        "markdownlint-cli": "^0.23.1"
     },
     "repository": {
         "type": "git",
