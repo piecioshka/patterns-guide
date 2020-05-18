@@ -5,10 +5,10 @@
 ## This patterns will be explain on [WarsawJS Workshop #44](https://app.evenea.pl/event/warsawjs-workshop-44)
 
 * [x] [Factory Method](https://github.com/piecioshka/patterns-guide/tree/master/demo/factory-method)
-* [ ] Builder
+* [ ] [Builder](https://github.com/piecioshka/patterns-guide/tree/master/demo/builder)
 * [x] [Facade](https://github.com/piecioshka/patterns-guide/tree/master/demo/facade)
-* [ ] Proxy
-* [ ] Adapter
+* [ ] [Proxy](https://github.com/piecioshka/patterns-guide/tree/master/demo/proxy)
+* [ ] [Adapter](https://github.com/piecioshka/patterns-guide/tree/master/demo/adapter)
 * [x] [Observer](https://github.com/piecioshka/patterns-guide/tree/master/demo/observer)
 * [x] [Strategy](https://github.com/piecioshka/patterns-guide/tree/master/demo/strategy)
 
