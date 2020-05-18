@@ -2,10 +2,12 @@
 
 > PL: Pośrednik
 
+TODO
+
 ## Demo 🎉
 
 <a href="./demo/proxy/">demo/proxy</a>
 
-## Description
+## Resources
 
 * <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#proxypatternjquery>

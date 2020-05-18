@@ -1,3 +1,11 @@
 # Enterprise-integration-patterns / Splitter
 
-* http://www.enterpriseintegrationpatterns.com/patterns/messaging/Sequencer.html
+TODO
+
+## Demo 🎉
+
+TODO
+
+## Resources
+
+* <http://www.enterpriseintegrationpatterns.com/patterns/messaging/Sequencer.html>

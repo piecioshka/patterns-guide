@@ -10,4 +10,4 @@
     + Messaging Patterns Overview
 * <http://www.enterpriseintegrationpatterns.com/docs/jaoo_hohpeg_enterpriseintegrationpatterns.pdf>
     + Great slides!
-* <https://lukasz-socha.pl/php/wzorce-projektowe-spis-tresci/>
+* PL: <https://lukasz-socha.pl/php/wzorce-projektowe-spis-tresci/>

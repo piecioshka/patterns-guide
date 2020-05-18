@@ -2,7 +2,14 @@
 
 > PL: Dekorator
 
+TODO
+
+## Demo 🎉
+
+TODO
+
+## Resources
+
 * <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#decoratorpatternjavascript>
-* <http://www.algorytm.org/wzorce-projektowe/dekorator-decorator.html>
-* <http://pl.wikipedia.org/wiki/Dekorator_(wzorzec_projektowy)>
-* <http://bumbu.ru/javascript-decorator-pattern/>
+* PL: <http://www.algorytm.org/wzorce-projektowe/dekorator-decorator.html>
+* PL: <http://pl.wikipedia.org/wiki/Dekorator_(wzorzec_projektowy)>

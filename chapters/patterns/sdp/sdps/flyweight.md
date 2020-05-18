@@ -2,6 +2,14 @@
 
 > PL: Pyłek
 
+TODO
+
+## Demo 🎉
+
+TODO
+
+## Resources
+
 * <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailflyweight>
-* <http://www.algorytm.org/wzorce-projektowe/pylek-flyweight.html>
+* PL: <http://www.algorytm.org/wzorce-projektowe/pylek-flyweight.html>
 * PL: <https://frontstack.pl/flyweight-design-pattern/>

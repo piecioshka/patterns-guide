@@ -2,5 +2,13 @@
 
 > PL: Budowniczy
 
+TODO
+
+## Demo 🎉
+
+TODO
+
+## Resources
+
 * <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#builderpatternjquery>
-* <http://www.algorytm.org/wzorce-projektowe/budowniczy-builder.html>
+* PL: <http://www.algorytm.org/wzorce-projektowe/budowniczy-builder.html>

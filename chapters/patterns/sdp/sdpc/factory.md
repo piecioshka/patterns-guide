@@ -6,6 +6,6 @@
 
 <a href="./demo/factory/">demo/factory</a>
 
-## Description
+## Resources
 
 * ...

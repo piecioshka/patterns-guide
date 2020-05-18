@@ -3,6 +3,22 @@
 * [Home](README.md)
 * [Introduction](chapters/@home.md)
 * Patterns
+    + Misc
+        - [Composition over Inheritance](chapters/patterns/misc/composition-over-inheritance.md)
+        - [Dependency Injection](chapters/patterns/misc/dependency-injection.md)
+        - [Don't Repeat Yourself](chapters/patterns/misc/dont-repeat-yourself.md)
+        - [Inheritance](chapters/patterns/misc/inheritance.md)
+        - [Inversion of Control](chapters/patterns/misc/inversion-of-control.md)
+        - [Keep It Simple Stupid](chapters/patterns/misc/keep-it-simple-stupid.md)
+        - [Message Broker](chapters/patterns/misc/message-broker.md)
+        - [Two-way Data Biding](chapters/patterns/misc/two-way-data-binding.md)
+        - [You Aren't Gonna Need It](chapters/patterns/misc/you-arent-gonna-need-it.md)
+    + SOLID
+        - [SRP](chapters/patterns/solid/single-responsibility-principle.md)
+        - [OCP](chapters/patterns/solid/open–closed-principle.md)
+        - [LSP](chapters/patterns/solid/liskov-substitution-principle.md)
+        - [ISP](chapters/patterns/solid/interface-segregation-principle.md)
+        - [DIP](chapters/patterns/solid/dependency-inversion-principle.md)
     + Software Design Patterns
         - Abstract
             * [MVC](chapters/patterns/sdp/sdpa/mvc.md)

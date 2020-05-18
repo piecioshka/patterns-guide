@@ -1,3 +1,11 @@
 # Enterprise-integration-patterns / Smart Proxy
 
-* http://www.enterpriseintegrationpatterns.com/patterns/messaging/SmartProxy.html
+TODO
+
+## Demo 🎉
+
+TODO
+
+## Resources
+
+* <http://www.enterpriseintegrationpatterns.com/patterns/messaging/SmartProxy.html>

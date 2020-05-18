@@ -2,6 +2,12 @@
 
 > PL: Metoda Szablonowa
 
-## Description
+TODO
+
+## Demo 🎉
+
+TODO
+
+## Resources
 
 * <https://pl.wikipedia.org/wiki/Metoda_szablonowa_(wzorzec_projektowy)>

@@ -13,7 +13,8 @@ Subjects:
 * `observable`, ex. `document`
 * `observer`, ex. `handleClick`
 
+## Resources
+
 * <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript>
-* <http://www.algorytm.org/wzorce-projektowe/obserwator-observer.html>
-* <http://bumbu.ru/javascript-observer-publish-subscribe-pattern/>
+* PL: <http://www.algorytm.org/wzorce-projektowe/obserwator-observer.html>
 * PL <https://frontstack.pl/observer-design-pattern/>

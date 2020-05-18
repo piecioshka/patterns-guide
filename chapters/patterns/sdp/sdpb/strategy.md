@@ -8,8 +8,9 @@
 
 ## Description
 
-* <http://adamczuk.net.pl/2012/02/10/wzorzec-projektowy-strategia/>
-* <http://bumbu.ru/javascript-strategy-pattern/>
 * <http://www.algorytm.org/wzorce-projektowe/strategia-strategy.html>
-* <http://burczu-programator.pl/blog/wzorce-projektowe-w-javascript-strategia>
-* <https://www.youtube.com/watch?v=JVlfj7mQZPo> — "Eliminate JavaScript Code Smells"
+* <https://www.youtube.com/watch?v=JVlfj7mQZPo>
+    + Eliminate JavaScript Code Smells
+    + <https://elijahmanor.com/talks/js-smells/>
+* PL: <http://adamczuk.net.pl/2012/02/10/wzorzec-projektowy-strategia/>
+* PL: <http://burczu-programator.pl/blog/wzorce-projektowe-w-javascript-strategia>

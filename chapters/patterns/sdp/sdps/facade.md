@@ -2,11 +2,13 @@
 
 > PL: Fasada
 
+TODO
+
 ## Demo 🎉
 
 <a href="./demo/facade/">demo/facade</a>
 
-## Description
+## Resources
 
 * <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#facadepatternjavascript>
 * PL: <https://frontstack.pl/facade-design-pattern/>

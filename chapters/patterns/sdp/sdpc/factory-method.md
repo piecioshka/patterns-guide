@@ -6,8 +6,8 @@
 
 <a href="./demo/factory-method/">demo/factory-method</a>
 
-## Description
+## Resources
 
 * <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#factorypatternjavascript>
-* <http://www.algorytm.org/wzorce-projektowe/metoda-wytworcza-factory-method.html>
 * <https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e>
+* PL: <http://www.algorytm.org/wzorce-projektowe/metoda-wytworcza-factory-method.html>

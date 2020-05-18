@@ -6,6 +6,6 @@
 
 <a href="./demo/pubsub/">demo/pubsub</a>
 
-## Description
+## Resources
 
 ...

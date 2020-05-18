@@ -2,5 +2,13 @@
 
 > PL: Kompozyt
 
+TODO
+
+## Demo 🎉
+
+TODO
+
+## Resources
+
 * <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#compositepatternjquery>
-* <http://pl.wikipedia.org/wiki/Kompozyt_(wzorzec_projektowy)>
+* PL: <http://pl.wikipedia.org/wiki/Kompozyt_(wzorzec_projektowy)>
