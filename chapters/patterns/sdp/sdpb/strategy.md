@@ -12,3 +12,4 @@
 * <http://bumbu.ru/javascript-strategy-pattern/>
 * <http://www.algorytm.org/wzorce-projektowe/strategia-strategy.html>
 * <http://burczu-programator.pl/blog/wzorce-projektowe-w-javascript-strategia>
+* <https://www.youtube.com/watch?v=JVlfj7mQZPo> — "Eliminate JavaScript Code Smells"

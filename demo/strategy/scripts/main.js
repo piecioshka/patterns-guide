@@ -2,22 +2,36 @@
 
 console.log('%cFile: main.js', 'color: green');
 
-{
-    const sm = new Map();
+// strategies.js
+const sm = new Map();
 
-    // Define strategies
-    sm.set('mp4', () => console.log('handle mp4 file'));
-    sm.set('mp3', () => console.log('handle mp3 file'));
-    sm.set('jpg', () => console.log('handle jpg file'));
+// strategies/handle-mp4.js
+(sm => {
+    const strategy = () => console.log('handle mp4 file');
+    sm.set('mp4', strategy);
+})(sm);
 
-    // Choose strategy
+// strategies/handle-mp3.js
+(sm => {
+    const strategy = () => console.log('handle mp3 file');
+    sm.set('mp3', strategy);
+})(sm);
+
+// strategies/handle-jpg.js
+(sm => {
+    const strategy = () => console.log('handle jpg file');
+    sm.set('jpg', strategy);
+})(sm);
+
+(sm => {
+    // Choose a strategy
     const format = 'mp4';
     const strategy = sm.get(format);
 
     try {
-        strategy();
+        strategy.call(null);
     } catch (err) {
         // what happen here?
         console.error('Caught Error', err);
     }
-}
+})(sm);
