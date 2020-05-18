@@ -4,7 +4,7 @@
 
 ## Demo 🎉
 
-<a href="./demo/mvc/">demo/mvc</a>
+* <a href="./demo/mvc/">demo/mvc</a>
 
 ## Description
 

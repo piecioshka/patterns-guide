@@ -4,7 +4,7 @@
 
 ## Demo 🎉
 
-<a href="./demo/factory/">demo/factory</a>
+* <a href="./demo/factory/">demo/factory</a>
 
 ## Resources
 

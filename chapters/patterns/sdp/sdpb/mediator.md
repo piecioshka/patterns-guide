@@ -4,7 +4,7 @@ TODO
 
 ## Demo 🎉
 
-<a href="./demo/mediator/">demo/mediator</a>
+* <a href="./demo/mediator/">demo/mediator</a>
 
 ## Resources
 

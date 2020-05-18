@@ -6,7 +6,8 @@ TODO
 
 ## Demo 🎉
 
-TODO
+* TODO
+* PL: <https://github.com/piecioshka/poj-lab-7> (Java)
 
 ## Resources
 

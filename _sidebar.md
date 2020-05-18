@@ -10,7 +10,10 @@
         - [Inheritance](chapters/patterns/misc/inheritance.md)
         - [Inversion of Control](chapters/patterns/misc/inversion-of-control.md)
         - [Keep It Simple Stupid](chapters/patterns/misc/keep-it-simple-stupid.md)
+        - [Memoization](chapters/patterns/misc/memoization.md)
         - [Message Broker](chapters/patterns/misc/message-broker.md)
+        - [Plugin](chapters/patterns/misc/plugin.md)
+        - [Property](chapters/patterns/misc/property.md)
         - [Two-way Data Biding](chapters/patterns/misc/two-way-data-binding.md)
         - [You Aren't Gonna Need It](chapters/patterns/misc/you-arent-gonna-need-it.md)
     + SOLID

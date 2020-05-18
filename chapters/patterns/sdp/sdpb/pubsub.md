@@ -4,7 +4,7 @@
 
 ## Demo 🎉
 
-<a href="./demo/pubsub/">demo/pubsub</a>
+* <a href="./demo/pubsub/">demo/pubsub</a>
 
 ## Resources
 

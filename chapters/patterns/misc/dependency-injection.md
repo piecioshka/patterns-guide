@@ -4,7 +4,7 @@ TODO
 
 ## Demo 🎉
 
-TODO
+* TODO
 
 ## Tools
 
@@ -29,3 +29,4 @@ TODO
 ## Resources
 
 * <https://en.wikipedia.org/wiki/Dependency_injection>
+* PL: <https://lukasz-socha.pl/php/wzorce-projektowe-cz-6-dependency-injection/> (PHP)

@@ -4,7 +4,7 @@
 
 ## Demo 🎉
 
-<a href="./demo/null-object/">demo/null-object</a>
+* <a href="./demo/null-object/">demo/null-object</a>
 
 ## Resources
 
