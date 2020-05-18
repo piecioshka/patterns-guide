@@ -5,7 +5,6 @@
 
     class PersonModel {
         constructor(name = '') {
-            console.debug('[+] new PersonModel');
             this.name = name;
         }
 
