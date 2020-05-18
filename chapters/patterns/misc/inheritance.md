@@ -1,6 +1,6 @@
 # Inheritance
 
-> PL: TODO
+> PL: Dziedziczenie
 
 TODO
 
