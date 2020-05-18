@@ -1,6 +1,6 @@
 // Pattern: PubSub
 
-console.log('%cFile: main.js', 'color: green');
+console.log('%cFile: solution.js', 'color: green');
 
 const channels = {};
 

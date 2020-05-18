@@ -1,5 +1,7 @@
 // Pattern: Observer
 
+console.log('%cFile: solution.js', 'color: green');
+
 class EventEmitter extends Array {
     emit(name, payload) {
         this.forEach((item) => {

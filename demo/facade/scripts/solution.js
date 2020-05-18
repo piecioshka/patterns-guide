@@ -1,6 +1,6 @@
 // Pattern: Facade
 
-console.log('%cFile: main.js', 'color: green');
+console.log('%cFile: solution.js', 'color: green');
 
 {
     function makeThingA() {

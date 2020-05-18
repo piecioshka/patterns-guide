@@ -1,6 +1,6 @@
 // Pattern: Singleton
 
-console.log('%cFile: main.js', 'color: green');
+console.log('%cFile: solution.js', 'color: green');
 
 class UniversumManager {
     static _instance = null;

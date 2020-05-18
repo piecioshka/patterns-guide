@@ -1,5 +1,7 @@
 // Pattern: Factory Method
 
+console.log('%cFile: solution.js', 'color: green');
+
 class ComputerFactory {
     constructor() {
         this._computerTypes = [];

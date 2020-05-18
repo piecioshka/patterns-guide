@@ -1,6 +1,6 @@
 // Pattern: Strategy
 
-console.log('%cFile: main.js', 'color: green');
+console.log('%cFile: solution.js', 'color: green');
 
 // strategies.js
 const sm = new Map();

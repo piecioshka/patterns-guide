@@ -1,5 +1,7 @@
 // Pattern: Mediator
 
+console.log('%cFile: solution.js', 'color: green');
+
 'use strict';
 
 function Person(name) {

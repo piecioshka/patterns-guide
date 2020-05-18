@@ -1,6 +1,6 @@
 // Pattern: Null Object
 
-console.log('%cFile: main.js', 'color: green');
+console.log('%cFile: solution.js', 'color: green');
 
 {
     class VideoPlayer {
