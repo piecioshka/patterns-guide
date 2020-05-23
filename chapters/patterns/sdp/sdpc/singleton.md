@@ -8,7 +8,15 @@
 
 ## Description
 
-* TODO
+* Limited instances of something
+* Use Cases (when to use this pattern)
+    + Create User instance
+    + Any service
+    + Connection to database
+* Pros
+    + Single instance reduce memory
+* Cons
+    + Often use too many times
 
 ## Resources
 

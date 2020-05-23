@@ -10,11 +10,15 @@
 
 ## Description
 
-* TODO
+* Separates product construction code from the code that actually uses the product
+* Subjects:
+    + creator, ex. Transport
+    + product, ex. Ship, Truck
 * Use Cases (when to use this pattern)
     + TODO
 * Pros
-    + TODO
+    + The same method implemented in multi classes could be override, so from
+        outside there is no changes occur
 * Cons
     + TODO
 

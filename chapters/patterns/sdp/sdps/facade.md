@@ -13,11 +13,12 @@
 * Similar to [Adapter Pattern](chapters/patterns/sdp/sdps/adapter.md),
     but **Facade** will create a brand new interface
 * Use Cases (when to use this pattern)
-    + TODO
+    + Hide implementation details on one class method
 * Pros
-    + TODO
+    + Provides a simple interface to a complex subsystem
+    + Includes only those features that clients really care about
 * Cons
-    + TODO
+    + Code could be coupled with too much deps
 
 ## Resources
 

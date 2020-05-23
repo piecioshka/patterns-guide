@@ -27,15 +27,11 @@ console.log('%cFile: solution.js', 'color: green');
         makeThingC(76);
     }
 
-    // --- logic
-
     const name = 'piotr';
 
     if (name === 'piotr') {
         handlePiotr();
-    }
-
-    if (name === 'mateusz') {
+    } else if (name === 'mateusz') {
         handleMateusz();
     }
 

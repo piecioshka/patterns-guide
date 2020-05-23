@@ -15,17 +15,13 @@ console.log('%cFile: problem.js', 'color: red');
         console.log('make thing C happen...', number);
     }
 
-    // --- logic
-
     const name = 'piotr';
 
     if (name === 'piotr') {
         makeThingA();
         makeThingB('kanapka');
         makeThingC(76);
-    }
-
-    if (name === 'mateusz') {
+    } else if (name === 'mateusz') {
         makeThingA();
         makeThingB('tenis');
         makeThingC(55);

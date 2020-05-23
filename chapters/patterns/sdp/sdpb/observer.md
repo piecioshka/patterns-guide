@@ -12,8 +12,8 @@
 ## Description
 
 * Subjects:
-    + `observable`, ex. `document`
-    + `observer`, ex. `handleClick`
+    + observable, ex. document
+    + observer, ex. handleClick
 * Use Cases (when to use this pattern)
     + TODO
 * Pros
