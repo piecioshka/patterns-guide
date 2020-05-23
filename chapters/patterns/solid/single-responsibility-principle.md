@@ -2,11 +2,13 @@
 
 > PL: Zasada minimalnej odpowiedzialności
 
-Rozdzielenie definicji oraz uruchomienia
-
 ## Demo 🎉
 
 * TODO
+
+## Description
+
+* Rozdzielenie definicji oraz uruchomienia
 
 ## Resources
 
