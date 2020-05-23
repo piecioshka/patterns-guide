@@ -2,39 +2,46 @@
 
 * [Home](README.md)
 * [Introduction](chapters/@home.md)
+* [People](chapters/people.md)
 * Patterns
     + Misc
         - [Composition over Inheritance](chapters/patterns/misc/composition-over-inheritance.md)
         - [Dependency Injection](chapters/patterns/misc/dependency-injection.md)
         - [Don't Repeat Yourself](chapters/patterns/misc/dont-repeat-yourself.md)
         - [Inheritance](chapters/patterns/misc/inheritance.md)
+        - [Interpreter](chapters/patterns/misc/interpreter.md)
         - [Inversion of Control](chapters/patterns/misc/inversion-of-control.md)
         - [Keep It Simple Stupid](chapters/patterns/misc/keep-it-simple-stupid.md)
         - [Memoization](chapters/patterns/misc/memoization.md)
         - [Message Broker](chapters/patterns/misc/message-broker.md)
+        - [Module](chapters/patterns/misc/module.md)
+        - [Null Object](chapters/patterns/misc/null-object.md)
         - [Plugin](chapters/patterns/misc/plugin.md)
         - [Property](chapters/patterns/misc/property.md)
         - [Two-way Data Biding](chapters/patterns/misc/two-way-data-binding.md)
         - [You Aren't Gonna Need It](chapters/patterns/misc/you-arent-gonna-need-it.md)
     + SOLID
-        - [SRP](chapters/patterns/solid/single-responsibility-principle.md)
-        - [OCP](chapters/patterns/solid/open-closed-principle.md)
-        - [LSP](chapters/patterns/solid/liskov-substitution-principle.md)
-        - [ISP](chapters/patterns/solid/interface-segregation-principle.md)
-        - [DIP](chapters/patterns/solid/dependency-inversion-principle.md)
+        - [Single Responsibility Principle](chapters/patterns/solid/single-responsibility-principle.md)
+        - [Open-Closed Principle](chapters/patterns/solid/open-closed-principle.md)
+        - [Liskov Substitution Principle](chapters/patterns/solid/liskov-substitution-principle.md)
+        - [Interface Segregation Principle](chapters/patterns/solid/interface-segregation-principle.md)
+        - [Dependency Inversion Principle](chapters/patterns/solid/dependency-inversion-principle.md)
     + Software Design Patterns
         - Abstract
             * [MVC](chapters/patterns/sdp/sdpa/mvc.md)
             * [MVP](chapters/patterns/sdp/sdpa/mvp.md)
         - Behaviour
+            * [Chain of Responsibility](chapters/patterns/sdp/sdpb/chain-of-responsibility.md)
             * [Command](chapters/patterns/sdp/sdpb/command.md)
             * [Iterator](chapters/patterns/sdp/sdpb/iterator.md)
             * [Mediator](chapters/patterns/sdp/sdpb/mediator.md)
-            * [Null Object](chapters/patterns/sdp/sdpb/null-object.md)
+            * [Momento](chapters/patterns/sdp/sdpb/momento.md)
             * [Observer](chapters/patterns/sdp/sdpb/observer.md)
             * [PubSub](chapters/patterns/sdp/sdpb/pubsub.md)
+            * [State](chapters/patterns/sdp/sdpb/state.md)
             * [Strategy](chapters/patterns/sdp/sdpb/strategy.md)
             * [Template Method](chapters/patterns/sdp/sdpb/template-method.md)
+            * [Visitor](chapters/patterns/sdp/sdpb/visitor.md)
         - Creational
             * [Abstract Factory](chapters/patterns/sdp/sdpc/abstract-factory.md)
             * [Builder](chapters/patterns/sdp/sdpc/builder.md)
@@ -49,7 +56,7 @@
             * [Facade](chapters/patterns/sdp/sdps/facade.md)
             * [Flyweight](chapters/patterns/sdp/sdps/flyweight.md)
             * [Proxy](chapters/patterns/sdp/sdps/proxy.md)
-    + Enterprise-integration-patterns
+    + Enterprise Integration Patterns
         - [Aggregator](chapters/patterns/eip/aggregator.md)
         - [Content-based Router](chapters/patterns/eip/content-based-router.md)
         - [Control Bus](chapters/patterns/eip/control-bus.md)

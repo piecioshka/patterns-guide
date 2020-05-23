@@ -2,12 +2,12 @@
 
 📘 Guide through **Design Patterns** (in JavaScript).
 
-## This patterns will be explain on [WarsawJS Workshop #44](https://app.evenea.pl/event/warsawjs-workshop-44)
+## This patterns will be explain on&nbsp;[WarsawJS Workshop #44](https://app.evenea.pl/event/warsawjs-workshop-44)
 
 * [x] [<a href="demo/factory-method/">Demo</a>] [[Code][factory-method]] Factory Method
-* [ ] [<a href="demo/builder/">Demo</a>] [[Code][builder]] Builder
+* [x] [<a href="demo/builder/">Demo</a>] [[Code][builder]] Builder
 * [x] [<a href="demo/facade/">Demo</a>] [[Code][facade]] Facade
-* [ ] [<a href="demo/proxy/">Demo</a>] [[Code][proxy]] Proxy
+* [x] [<a href="demo/proxy/">Demo</a>] [[Code][proxy]] Proxy
 * [ ] [<a href="demo/adapter/">Demo</a>] [[Code][adapter]] Adapter
 * [x] [<a href="demo/observer/">Demo</a>] [[Code][observer]] Observer
 * [x] [<a href="demo/strategy/">Demo</a>] [[Code][strategy]] Strategy
