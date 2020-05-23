@@ -6,4 +6,4 @@ During this workshops, we can learn about patterns:
 
 * _Creational_: Factory, Builder
 * _Structural_: Facade, Proxy, Adapter
-* _Behaviour_: Observer, Strategy
+* _Behavioral_: Observer, Strategy

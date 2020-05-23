@@ -16,7 +16,7 @@
         - Abstract
             * [MVC](chapters/patterns/sdp/sdpa/mvc.md)
             * [MVP](chapters/patterns/sdp/sdpa/mvp.md)
-        - Behaviour
+        - Behavioral
             * [Chain of Responsibility](chapters/patterns/sdp/sdpb/chain-of-responsibility.md)
             * [Command](chapters/patterns/sdp/sdpb/command.md)
             * [Iterator](chapters/patterns/sdp/sdpb/iterator.md)
