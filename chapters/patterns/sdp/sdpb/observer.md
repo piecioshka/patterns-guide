@@ -23,7 +23,7 @@
 
 ## Resources
 
-* <https://refactoring.guru/design-patterns/observer>
+* 🚀 <https://refactoring.guru/design-patterns/observer>
 * <https://jsmanifest.com/observer-pattern-in-javascript/>
 * <https://www.dofactory.com/javascript/observer-design-pattern>
 * <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript>

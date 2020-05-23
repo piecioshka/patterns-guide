@@ -23,7 +23,7 @@
 
 ## Resources
 
-* <https://refactoring.guru/design-patterns/builder>
+* 🚀 <https://refactoring.guru/design-patterns/builder>
 * 🏆 <https://jsmanifest.com/the-builder-pattern-in-javascript/>
 * <https://jsmanifest.com/4-dangerous-problems-easily-solved-by-builder-pattern-in-javascript/>
 * <https://www.dofactory.com/javascript/builder-design-pattern/>

@@ -23,7 +23,7 @@
 
 ## Resources
 
-* <https://refactoring.guru/design-patterns/proxy>
+* 🚀 <https://refactoring.guru/design-patterns/proxy>
 * <https://www.dofactory.com/javascript/proxy-design-pattern>
 * <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#proxypatternjquery>
 * PL: <https://lukasz-socha.pl/php/wzorce-projektowe-cz-12-proxy/> (PHP)

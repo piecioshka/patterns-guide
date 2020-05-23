@@ -26,7 +26,7 @@
 
 ## Resources
 
-* <https://refactoring.guru/design-patterns/strategy>
+* 🚀 <https://refactoring.guru/design-patterns/strategy>
 * <http://www.algorytm.org/wzorce-projektowe/strategia-strategy.html>
 * <https://www.dofactory.com/javascript/strategy-design-pattern>
 * PL: <http://adamczuk.net.pl/2012/02/10/wzorzec-projektowy-strategia/>

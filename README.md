@@ -1,5 +1,7 @@
 # patterns-guide
 
+[![travis-ci](https://api.travis-ci.org/piecioshka/patterns-guide.svg?branch=master)](https://travis-ci.org/piecioshka/patterns-guide)
+
 📘 Guide through **Design Patterns** (in JavaScript).
 
 ## This patterns will be explain on&nbsp;[WarsawJS Workshop #44](https://app.evenea.pl/event/warsawjs-workshop-44)
@@ -32,3 +34,11 @@
 [null-object]: https://github.com/piecioshka/patterns-guide/tree/master/demo/null
 [pubsub]: https://github.com/piecioshka/patterns-guide/tree/master/demo/pubsub
 [singleton]: https://github.com/piecioshka/patterns-guide/tree/master/demo/singleton
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2020

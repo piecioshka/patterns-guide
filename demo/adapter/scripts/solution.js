@@ -1,6 +1,7 @@
 // Pattern: Adapter
 
 console.log('%cFile: solution.js', 'color: green');
+
 {
     class Person {
         constructor(name_surname) {
@@ -11,14 +12,9 @@ console.log('%cFile: solution.js', 'color: green');
         }
     }
 
-    class PersonAdapter {
+    class PersonAdapter extends Person {
         constructor(name, surname) {
-            this.person = new Person(
-                `${name} ${surname}`
-            )
-        }
-        getName() {
-            return this.person.getName();
+            super(`${name} ${surname}`);
         }
     }
 

@@ -32,6 +32,9 @@
     },
     "MD033": {
         "allowed_elements": [
+            "details",
+            "summary",
+            "em",
             "img",
             "kbd",
             "br",

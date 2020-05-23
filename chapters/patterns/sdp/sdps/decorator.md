@@ -13,7 +13,7 @@
 
 ## Resources
 
-* <https://refactoring.guru/design-patterns/decorator>
+* 🚀 <https://refactoring.guru/design-patterns/decorator>
 * <https://jsmanifest.com/decorators-in-javascript/>
 * <https://www.dofactory.com/javascript/decorator-design-pattern>
 * <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#decoratorpatternjavascript>

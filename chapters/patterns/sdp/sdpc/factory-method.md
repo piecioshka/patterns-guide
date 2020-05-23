@@ -20,7 +20,7 @@
 
 ## Resources
 
-* <https://refactoring.guru/design-patterns/factory-method>
+* 🚀 <https://refactoring.guru/design-patterns/factory-method>
 * <https://www.dofactory.com/javascript/factory-method-design-pattern>
 * <https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e>
 * <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#factorypatternjavascript>

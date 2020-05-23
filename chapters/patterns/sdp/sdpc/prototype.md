@@ -12,7 +12,7 @@
 
 ## Resources
 
-* <https://refactoring.guru/design-patterns/prototype>
+* 🚀 <https://refactoring.guru/design-patterns/prototype>
 * <https://jsmanifest.com/the-prototype-pattern-in-javascript/>
 * <https://www.dofactory.com/javascript/prototype-design-pattern>
 * <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#prototypepatternjavascript>

@@ -19,6 +19,7 @@
     + Wrap vendor to own interface
     + Use legacy code, but you don't what to touch them
 * Pros
+    + [Single Responsibility Principle](chapters/patterns/solid/single-responsibility-principle.md)
     + [Open-Closed Principle](chapters/patterns/solid/open-closed-principle.md)
     + Allows objects with incompatible interfaces to collaborate
     + Adapter wraps one of the objects to hide the complexity of conversion happening behind the scenes
@@ -28,7 +29,7 @@
 
 ## Resources
 
-* <https://refactoring.guru/design-patterns/adapter>
+* 🚀 <https://refactoring.guru/design-patterns/adapter>
 * <https://www.dofactory.com/javascript/adapter-design-pattern>
 * <https://en.wikipedia.org/wiki/Adapter_pattern>
 * <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#wrapperpatternjquery>

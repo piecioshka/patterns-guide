@@ -12,4 +12,4 @@
 
 ## Resources
 
-* <https://refactoring.guru/design-patterns/chain-of-responsibility>
+* 🚀 <https://refactoring.guru/design-patterns/chain-of-responsibility>

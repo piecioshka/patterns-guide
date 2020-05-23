@@ -27,3 +27,8 @@
     top: 150px;
     left: 420px;
 }
+
+summary {
+    padding: 10px 0;
+    cursor: pointer;
+}

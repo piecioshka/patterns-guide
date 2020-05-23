@@ -12,7 +12,7 @@
 
 ## Resources
 
-* <https://refactoring.guru/design-patterns/singleton>
+* 🚀 <https://refactoring.guru/design-patterns/singleton>
 * <https://www.dofactory.com/javascript/singleton-design-pattern>
 * <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript>
 * PL: <http://www.algorytm.org/wzorce-projektowe/singleton-singleton.html>

@@ -21,7 +21,7 @@
 
 ## Resources
 
-* <https://refactoring.guru/design-patterns/facade>
+* 🚀 <https://refactoring.guru/design-patterns/facade>
 * <https://www.dofactory.com/javascript/facade-design-pattern>
 * <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#facadepatternjavascript>
 * PL: <https://frontstack.pl/facade-design-pattern/>

@@ -12,5 +12,5 @@
 
 ## Resources
 
-* <https://refactoring.guru/design-patterns/visitor>
+* 🚀 <https://refactoring.guru/design-patterns/visitor>
 * <https://www.dofactory.com/javascript/visitor-design-pattern>

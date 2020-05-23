@@ -12,7 +12,7 @@
 
 ## Resources
 
-* <https://refactoring.guru/design-patterns/command>
+* 🚀 <https://refactoring.guru/design-patterns/command>
 * <https://jsmanifest.com/command-design-pattern-in-javascript/>
 * <https://www.dofactory.com/javascript/command-design-pattern>
 * <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#commandpatternjavascript>

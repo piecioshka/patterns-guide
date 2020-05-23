@@ -12,5 +12,5 @@
 
 ## Resources
 
-* <https://refactoring.guru/design-patterns/state>
+* 🚀 <https://refactoring.guru/design-patterns/state>
 * <https://www.dofactory.com/javascript/state-design-pattern>
