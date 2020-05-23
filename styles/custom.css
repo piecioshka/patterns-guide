@@ -18,3 +18,12 @@
 .app-nav img {
     width: 150px;
 }
+
+/* -------------------------------------------------------------------------- */
+
+.pattern-logo {
+    width: 100px;
+    position: absolute;
+    top: 150px;
+    left: 420px;
+}
