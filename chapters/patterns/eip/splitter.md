@@ -1,10 +1,12 @@
-# Enterprise-integration-patterns / Splitter
+# Enterprise Integration Patterns / Splitter
 
 > PL: TODO
 
-TODO
-
 ## Demo 🎉
+
+* TODO
+
+## Description
 
 * TODO
 

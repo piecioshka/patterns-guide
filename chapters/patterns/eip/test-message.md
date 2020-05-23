@@ -1,10 +1,12 @@
-# Enterprise-integration-patterns / Test Message
+# Enterprise Integration Patterns / Test Message
 
 > PL: TODO
 
-TODO
-
 ## Demo 🎉
+
+* TODO
+
+## Description
 
 * TODO
 

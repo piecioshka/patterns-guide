@@ -1,10 +1,12 @@
-# Enterprise-integration-patterns / Wire Tap | Tee
+# Enterprise Integration Patterns / Wire Tap | Tee
 
 > PL: TODO
 
-TODO
-
 ## Demo 🎉
+
+* TODO
+
+## Description
 
 * TODO
 

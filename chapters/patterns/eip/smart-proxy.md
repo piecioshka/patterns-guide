@@ -1,10 +1,12 @@
-# Enterprise-integration-patterns / Smart Proxy
+# Enterprise Integration Patterns / Smart Proxy
 
 > PL: TODO
 
-TODO
-
 ## Demo 🎉
+
+* TODO
+
+## Description
 
 * TODO
 

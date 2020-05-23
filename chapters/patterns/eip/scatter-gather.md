@@ -1,10 +1,12 @@
-# Enterprise-integration-patterns / Scatter-Gather
+# Enterprise Integration Patterns / Scatter-Gather
 
 > PL: TODO
 
-TODO
-
 ## Demo 🎉
+
+* TODO
+
+## Description
 
 * TODO
 

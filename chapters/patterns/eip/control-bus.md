@@ -1,10 +1,12 @@
-# Enterprise-integration-patterns / Control Bus
+# Enterprise Integration Patterns / Control Bus
 
 > PL: TODO
 
-TODO
-
 ## Demo 🎉
+
+* TODO
+
+## Description
 
 * TODO
 

@@ -1,10 +1,12 @@
-# Enterprise-integration-patterns / Aggregator
+# Enterprise Integration Patterns / Aggregator
 
 > PL: TODO
 
-TODO
-
 ## Demo 🎉
+
+* TODO
+
+## Description
 
 * TODO
 
