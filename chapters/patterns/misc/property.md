@@ -1,6 +1,6 @@
 # Property Pattern
 
-> PL: TODO
+> PL: Właściwość
 
 ## Demo 🎉
 

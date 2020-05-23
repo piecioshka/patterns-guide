@@ -2,6 +2,8 @@
 
 > PL: Fabryka
 
+<img src="images/icons/factory.svg" class="pattern-logo">
+
 ## Demo 🎉
 
 * <a href="./demo/factory/">demo/factory</a>

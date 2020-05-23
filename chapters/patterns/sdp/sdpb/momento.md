@@ -1,6 +1,6 @@
 # Software Design Patterns / Behavioral / Momento
 
-> PL: TODO
+> PL: Pamiątka
 
 ## Demo 🎉
 

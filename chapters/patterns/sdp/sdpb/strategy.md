@@ -2,6 +2,8 @@
 
 > PL: Strategia
 
+<img src="images/icons/jigsaw.svg" class="pattern-logo">
+
 ## Demo 🎉
 
 * <a href="./demo/strategy/">demo/strategy</a>

@@ -2,6 +2,8 @@
 
 > PL: Pośrednik, Pełnomocnik
 
+<img src="images/icons/server.svg" class="pattern-logo">
+
 ## Demo 🎉
 
 * Service Worker is a network proxy
@@ -15,7 +17,7 @@
     + Caching
     + Protect resources with Access Control
 * Pros
-    + Does not break `Open-Closed Principle`
+    + [Open-Closed Principle](chapters/patterns/solid/open-closed-principle.md)
 * Cons
     + Code could look like more complicated
 

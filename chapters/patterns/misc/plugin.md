@@ -1,6 +1,6 @@
 # Plugin Pattern
 
-> PL: TODO
+> PL: Rozszerzenie
 
 ## Demo 🎉
 

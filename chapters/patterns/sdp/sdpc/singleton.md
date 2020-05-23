@@ -1,6 +1,6 @@
 # Software Design Patterns / Creational / Singleton
 
-> PL: TODO
+> PL: Pojedyncza rzecz
 
 ## Demo 🎉
 

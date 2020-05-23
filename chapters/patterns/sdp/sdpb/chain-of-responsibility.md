@@ -1,6 +1,6 @@
 # Software Design Patterns / Behavioral / Chain of Responsibility
 
-> PL: TODO
+> PL: Łańcuch odpowiedzialności
 
 ## Demo 🎉
 

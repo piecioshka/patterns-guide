@@ -1,6 +1,6 @@
 # Software Design Patterns / Behavioral / Iterator
 
-> PL: TODO
+> PL: ---
 
 ## Demo 🎉
 

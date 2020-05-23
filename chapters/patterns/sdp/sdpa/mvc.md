@@ -1,14 +1,12 @@
-# Software Design Patterns / Architectural / MVC
+# Software Design Patterns / Architectural / Model View Controller (MVC)
 
-> PL: TODO
+> PL: Model Widok Kontroler
 
 ## Demo 🎉
 
 * <a href="./demo/mvc/">demo/mvc</a>
 
 ## Description
-
-* <https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller>
 
 Legend:
 
@@ -30,3 +28,7 @@ Legend (2):
     a document).
 
 ![](../../../../diagrams/mvc/mvc.png)
+
+## Resources
+
+* <https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller>

@@ -1,6 +1,6 @@
 # Software Design Patterns / Behavioral / State
 
-> PL: TODO
+> PL: Stan
 
 ## Demo 🎉
 

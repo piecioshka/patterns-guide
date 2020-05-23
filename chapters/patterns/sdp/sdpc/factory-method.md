@@ -2,6 +2,8 @@
 
 > PL: Metoda wytwórcza
 
+<img src="images/icons/factory.svg" class="pattern-logo">
+
 ## Demo 🎉
 
 * <a href="./demo/factory-method/">demo/factory-method</a>

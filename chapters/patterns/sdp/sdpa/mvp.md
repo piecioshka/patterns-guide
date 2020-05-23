@@ -1,6 +1,6 @@
 # Software Design Patterns / Architectural / Model View Presenter
 
-> PL: TODO
+> PL: Model Widok Prezenter
 
 ## Demo 🎉
 
@@ -8,9 +8,7 @@
 
 ## Description
 
-* TODO
-
-## Legend
+Legend
 
 * The model is an interface defining the data to be displayed or otherwise acted
     upon in the user interface.

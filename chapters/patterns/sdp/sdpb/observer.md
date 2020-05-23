@@ -2,6 +2,8 @@
 
 > PL: Obserwator
 
+<img src="images/icons/electron.svg" class="pattern-logo">
+
 ## Demo 🎉
 
 * <a href="./demo/observer/">demo/observer</a>

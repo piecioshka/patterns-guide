@@ -2,13 +2,16 @@
 
 > PL: Fasada
 
+<img src="images/icons/terrace.svg" class="pattern-logo">
+
 ## Demo 🎉
 
 * <a href="./demo/facade/">demo/facade</a>
 
 ## Description
 
-* TODO
+* Similar to [Adapter Pattern](chapters/patterns/sdp/sdps/adapter.md),
+    but **Facade** will create a brand new interface
 * Use Cases (when to use this pattern)
     + TODO
 * Pros

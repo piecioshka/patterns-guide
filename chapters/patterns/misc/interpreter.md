@@ -1,6 +1,6 @@
 # Interpreter
 
-> PL: TODO
+> PL: Interpretator
 
 ## Demo 🎉
 

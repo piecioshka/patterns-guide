@@ -1,6 +1,6 @@
 # Software Design Patterns / Behavioral / Mediator
 
-> PL: TODO
+> PL: Pośrednik, Mediator
 
 ## Demo 🎉
 

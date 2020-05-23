@@ -1,6 +1,6 @@
 # Software Design Patterns / Behavioral / Publish–Subscribe Pattern
 
-> PL: TODO
+> PL: Publikacja / Subskrypcja
 
 ## Demo 🎉
 

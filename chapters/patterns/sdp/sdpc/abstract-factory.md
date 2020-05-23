@@ -2,6 +2,8 @@
 
 > PL: Fabryka abstrakcyjna
 
+<img src="images/icons/factory.svg" class="pattern-logo">
+
 ## Demo 🎉
 
 * TODO

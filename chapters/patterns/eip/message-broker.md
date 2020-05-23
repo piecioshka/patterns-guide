@@ -1,4 +1,4 @@
-# Message Broker
+# Enterprise Integration Patterns / Message Broker
 
 > PL: TODO
 

@@ -1,6 +1,6 @@
 # Software Design Patterns / Behavioral / Visitor
 
-> PL: TODO
+> PL: Odwiedzający
 
 ## Demo 🎉
 
