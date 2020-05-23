@@ -2,19 +2,32 @@
 
 > PL: Budowniczy
 
-TODO
-
 ## Demo 🎉
 
-* TODO
+* <a href="./demo/builder/">demo/builder</a>
 * PL: <https://github.com/piecioshka/poj-lab-2> (Java)
+
+## Description
+
+* help construct complex objects
+* separate object construction from its representation
+* create different representations
+* when we need a way to help simplify constructions of complex objects
+* Use Cases (when to use this pattern)
+    + TODO
+* Pros
+    + TODO
+* Cons
+    + TODO
 
 ## Resources
 
-* <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#builderpatternjquery>
-* <https://jsmanifest.com/the-builder-pattern-in-javascript/>
+* <https://refactoring.guru/design-patterns/builder>
+* 🏆 <https://jsmanifest.com/the-builder-pattern-in-javascript/>
+* <https://jsmanifest.com/4-dangerous-problems-easily-solved-by-builder-pattern-in-javascript/>
 * <https://www.dofactory.com/javascript/builder-design-pattern/>
 * <https://jsdeepdive.blogspot.com/2014/07/javascript-builder-design-pattern.html>
+* <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#builderpatternjquery>
 * PL: <http://www.algorytm.org/wzorce-projektowe/budowniczy-builder.html>
 * PL: <https://devcave.pl/effective-java/wzorzec-projektowy-builder> (Java)
 * PL: <http://home.agh.edu.pl/~kpietak/post/2018-01-builder/> (Java)

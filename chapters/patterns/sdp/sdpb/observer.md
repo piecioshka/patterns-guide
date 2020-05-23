@@ -1,4 +1,4 @@
-# Software Design Patterns / Gang of Four Patterns / Behavioral / Observer
+# Software Design Patterns / Behavioral / Observer
 
 > PL: Obserwator
 
@@ -9,13 +9,21 @@
 
 ## Description
 
-Subjects:
-
-* `observable`, ex. `document`
-* `observer`, ex. `handleClick`
+* Subjects:
+    + `observable`, ex. `document`
+    + `observer`, ex. `handleClick`
+* Use Cases (when to use this pattern)
+    + TODO
+* Pros
+    + TODO
+* Cons
+    + TODO
 
 ## Resources
 
+* <https://refactoring.guru/design-patterns/observer>
+* <https://jsmanifest.com/observer-pattern-in-javascript/>
+* <https://www.dofactory.com/javascript/observer-design-pattern>
 * <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript>
 * PL: <http://www.algorytm.org/wzorce-projektowe/obserwator-observer.html>
 * PL: <https://frontstack.pl/observer-design-pattern/>

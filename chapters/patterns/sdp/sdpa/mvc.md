@@ -2,8 +2,6 @@
 
 > PL: TODO
 
-![](../../../../diagrams/mvc/mvc.png)
-
 ## Demo 🎉
 
 * <a href="./demo/mvc/">demo/mvc</a>
@@ -30,3 +28,5 @@ Legend (2):
     (e.g. editing a document). It can also send commands to its associated view
     to change the view's presentation of the model (e.g. by scrolling through
     a document).
+
+![](../../../../diagrams/mvc/mvc.png)

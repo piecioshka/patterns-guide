@@ -1,4 +1,4 @@
-# Publish–Subscribe Pattern
+# Software Design Patterns / Behavioral / Publish–Subscribe Pattern
 
 > PL: TODO
 
@@ -6,6 +6,10 @@
 
 * <a href="./demo/pubsub/">demo/pubsub</a>
 
+## Description
+
+* TODO
+
 ## Resources
 
-...
+* <https://jsmanifest.com/the-publish-subscribe-pattern-in-javascript/>

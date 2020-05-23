@@ -6,6 +6,10 @@
 
 * <a href="./demo/factory/">demo/factory</a>
 
+## Description
+
+* TODO
+
 ## Resources
 
 * <https://www.dofactory.com/javascript/factory-method-design-pattern>
