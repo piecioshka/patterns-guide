@@ -2,9 +2,11 @@
 
 > PL: TODO
 
-TODO
-
 ## Demo 🎉
+
+* TODO
+
+## Description
 
 * TODO
 
@@ -30,5 +32,6 @@ TODO
 
 ## Resources
 
+* <https://jsmanifest.com/dependency-injection-container-in-javascript/>
 * <https://en.wikipedia.org/wiki/Dependency_injection>
 * PL: <https://lukasz-socha.pl/php/wzorce-projektowe-cz-6-dependency-injection/> (PHP)

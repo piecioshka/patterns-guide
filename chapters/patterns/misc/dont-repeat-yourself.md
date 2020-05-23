@@ -2,13 +2,13 @@
 
 > PL: TODO
 
-* Wydzielić podobne kawałki kodu do jednej funkcji
-
-TODO
-
 ## Demo 🎉
 
 * TODO
+
+## Description
+
+* Wydzielić podobne kawałki kodu do jednej funkcji
 
 ## Resources
 
