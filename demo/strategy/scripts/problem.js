@@ -35,4 +35,3 @@ console.log('%cFile: problem.js', 'color: red');
 // 1. Violates "Open/Close Principle from SOLID"
 //      - should be open to extend
 //      - should be close to modification
-// 2. 

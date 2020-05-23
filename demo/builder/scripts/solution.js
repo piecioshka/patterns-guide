@@ -1,6 +1,7 @@
 // Pattern: Builder
 
 console.log('%cFile: solution.js', 'color: green');
+
 {
     class PersonBuilder {
         constructor(name, surname) {

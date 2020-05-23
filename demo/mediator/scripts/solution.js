@@ -2,74 +2,76 @@
 
 console.log('%cFile: solution.js', 'color: green');
 
-'use strict';
+{
 
-function Person(name) {
-    this.name = name;
-}
-
-Person.prototype.feed = function () {
-    console.log(this.name + ' is feed animal');
-};
-
-// ---
-
-function Animal(name) {
-    this.name = name;
-}
-
-Animal.prototype.thanks = function () {
-    console.log('animal ' + this.name + ' is thankful');
-};
-
-// ---
-
-let Mediator = (function () {
-    let list = {};
-
-    function publish(topic) {
-        let subscribers = list[topic];
-        if (!subscribers) return;
-        subscribers.forEach((subscriber) => subscriber.callback.call(subscriber.context));
+    function Person(name) {
+        this.name = name;
     }
 
-    function subscribe(topic, callback) {
-        list[topic] = list[topic] || [];
-        list[topic].push({
-            context: this,
-            callback: callback
-        });
+    Person.prototype.feed = function () {
+        console.log(this.name + ' is feed animal');
+    };
+
+    // ---
+
+    function Animal(name) {
+        this.name = name;
     }
 
-    return {
-        install: function (subject) {
-            subject.publish = publish;
-            subject.subscribe = subscribe;
+    Animal.prototype.thanks = function () {
+        console.log('animal ' + this.name + ' is thankful');
+    };
+
+    // ---
+
+    let Mediator = (function () {
+        let list = {};
+
+        function publish(topic) {
+            let subscribers = list[topic];
+            if (!subscribers) return;
+            subscribers.forEach((subscriber) => subscriber.callback.call(subscriber.context));
         }
-    }
-})();
 
-let john = new Person('john');
-let mike = new Person('mike');
+        function subscribe(topic, callback) {
+            list[topic] = list[topic] || [];
+            list[topic].push({
+                context: this,
+                callback: callback
+            });
+        }
 
-let cat = new Animal('cat');
-let dog = new Animal('dog');
+        return {
+            install: function (subject) {
+                subject.publish = publish;
+                subject.subscribe = subscribe;
+            }
+        }
+    })();
 
-// Install to each created object.
-[john, mike, cat, dog].forEach(object => Mediator.install(object));
+    let john = new Person('john');
+    let mike = new Person('mike');
 
-john.subscribe('hungry-cat', john.feed);
-mike.subscribe('hungry-cat', mike.feed);
-cat.publish('hungry-cat');
+    let cat = new Animal('cat');
+    let dog = new Animal('dog');
 
-console.log('---');
+    // Install to each created object.
+    [john, mike, cat, dog].forEach(object => Mediator.install(object));
 
-cat.subscribe('feed', cat.thanks);
-dog.subscribe('feed', dog.thanks);
-mike.publish('feed');
+    john.subscribe('hungry-cat', john.feed);
+    mike.subscribe('hungry-cat', mike.feed);
+    cat.publish('hungry-cat');
 
-// john is feed animal
-// mike is feed animal
-// ---
-// animal cat is thankful
-// animal dog is thankful
+    console.log('---');
+
+    cat.subscribe('feed', cat.thanks);
+    dog.subscribe('feed', dog.thanks);
+    mike.publish('feed');
+
+    // john is feed animal
+    // mike is feed animal
+    // ---
+    // animal cat is thankful
+    // animal dog is thankful
+
+}
