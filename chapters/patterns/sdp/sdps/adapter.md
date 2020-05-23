@@ -25,7 +25,8 @@
     + Adapter wraps one of the objects to hide the complexity of conversion happening behind the scenes
     + Put the missing functionality (of Legacy Code) into an adapter class
 * Cons
-    + Decrease performance, too many adapters?
+    + Decrease performance
+    + Complicated code
 
 ## Resources
 

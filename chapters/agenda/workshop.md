@@ -21,6 +21,7 @@
     + callback, promise
     + argument, parametr
     + library, framework
+    + <https://github.com/lukaszbasaj/manual-javascript>
 
 </details>
 

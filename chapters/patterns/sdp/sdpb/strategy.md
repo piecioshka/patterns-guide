@@ -12,11 +12,13 @@
 
 * TODO
 * Use Cases (when to use this pattern)
-    + TODO
+    + Making a decision which path will be better to handle params
 * Pros
-    + TODO
+    + Decoupling code
+    + [Open-Closed Principle](chapters/patterns/solid/open-closed-principle.md)
 * Cons
-    + TODO
+    + More files
+    + Complicated code
 
 ## Talks
 
