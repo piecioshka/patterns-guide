@@ -8,7 +8,7 @@
 * [x] [<a href="demo/builder/">Demo</a>] [[Code][builder]] Builder
 * [x] [<a href="demo/facade/">Demo</a>] [[Code][facade]] Facade
 * [x] [<a href="demo/proxy/">Demo</a>] [[Code][proxy]] Proxy
-* [ ] [<a href="demo/adapter/">Demo</a>] [[Code][adapter]] Adapter
+* [x] [<a href="demo/adapter/">Demo</a>] [[Code][adapter]] Adapter
 * [x] [<a href="demo/observer/">Demo</a>] [[Code][observer]] Observer
 * [x] [<a href="demo/strategy/">Demo</a>] [[Code][strategy]] Strategy
 
