@@ -10,7 +10,7 @@
 
 ## Description
 
-* TODO
+* Define more than one handlers
 * Use Cases (when to use this pattern)
     + Making a decision which path will be better to handle params
 * Pros

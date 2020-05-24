@@ -15,11 +15,11 @@
     + observable, ex. document
     + observer, ex. handleClick
 * Use Cases (when to use this pattern)
-    + TODO
+    + Communicate two independent sources
 * Pros
-    + TODO
+    + [Open-Closed Principle](chapters/patterns/solid/open-closed-principle.md)
 * Cons
-    + TODO
+    + Complicated data flow
 
 ## Resources
 

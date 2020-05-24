@@ -15,12 +15,13 @@
     + creator, ex. Transport
     + product, ex. Ship, Truck
 * Use Cases (when to use this pattern)
-    + TODO
+    + Create data in unit tests
+    + When create library, and would like to extends internal implementation
 * Pros
     + The same method implemented in multi classes could be override, so from
         outside there is no changes occur
 * Cons
-    + TODO
+    + Complicated code
 
 ## Resources
 

@@ -12,14 +12,14 @@
 ## Description
 
 * Use Cases (when to use this pattern)
-    + TODO
+    + Build UI
 * Pros
     + help construct complex objects
     + create different representations
     + when we need a way to help simplify constructions of complex objects
     + separate object construction from its representation
 * Cons
-    + TODO
+    + Complicated code
 
 ## Resources
 
