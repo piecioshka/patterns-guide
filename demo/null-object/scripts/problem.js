@@ -21,13 +21,13 @@ console.log('%cFile: problem.js', 'color: red');
     switch (format) {
         case 'mp4':
             player = new VideoPlayer();
-            player.play();
             break;
         case 'mp3':
             player = new AudioPlayer();
-            player.play();
             break;
         default:
         // do nothing
     }
+
+    player.play();
 }
