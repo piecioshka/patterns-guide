@@ -4,15 +4,20 @@
 
 📘 Guide through **Design Patterns** (in JavaScript).
 
-## This patterns will be explain on&nbsp;[WarsawJS Workshop #44](https://app.evenea.pl/event/warsawjs-workshop-44)
+## Demos
 
-* [Factory Method](chapters/patterns/sdp/sdpc/factory-method.md)
-* [Builder](chapters/patterns/sdp/sdpc/builder.md)
-* [Facade](chapters/patterns/sdp/sdps/facade.md)
-* [Proxy](chapters/patterns/sdp/sdps/proxy.md)
-* [Adapter](chapters/patterns/sdp/sdps/adapter.md)
-* [Observer](chapters/patterns/sdp/sdpb/observer.md)
-* [Strategy](chapters/patterns/sdp/sdpb/strategy.md)
+* [Adapter](demo/adapter/)
+* [Builder](demo/builder/)
+* [Facade](demo/facade/)
+* [Factory Method](demo/factory-method/)
+* [Mediator](demo/mediator/)
+* [MVC](demo/mvc/)
+* [Null Object](demo/null-object/)
+* [Observer](demo/observer/)
+* [Proxy](demo/proxy/)
+* [PubSub](demo/pubsub/)
+* [Singleton](demo/singleton/)
+* [Strategy](demo/strategy/)
 
 ## Show your support
 
