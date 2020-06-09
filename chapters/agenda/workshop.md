@@ -19,7 +19,7 @@
     + var, let, const
     + function, class
     + callback, promise
-    + argument, parametr
+    + argument, parameter
     + library, framework
     + <https://github.com/lukaszbasaj/manual-javascript>
 
