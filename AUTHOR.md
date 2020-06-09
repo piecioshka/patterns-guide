@@ -5,18 +5,18 @@
     src="https://piecioshka.pl/assets/images/me/piotr-kowalski-200x200.jpg"
     alt=""/>
 
-Entuzjasta [programowania][github]. Miłośnik JavaScriptu.
-[Pracowity][linkedin], pomocny. Łamie stereotyp programisty zamkniętego w sobie.
-Otwiera się na innych oraz na [nowe pomysły][fb]!
+Entuzjasta [programowania][gh]. Miłośnik JavaScriptu.
+[Pracowity][li], pomocny. Łamie stereotyp programisty zamkniętego w sobie.
+[Otwiera się na innych][tt] oraz na [nowe pomysły][fb]!
 
-Twórca filmów o programowaniu na [prywatnym kanale][youtube] na YouTube.
+Twórca filmów o programowaniu na [prywatnym kanale][yt] na YouTube.
 Autor kilkuset artykułów technicznych publikowanych na łamach [swojego bloga][blog].
 
-Trener z zamiłowania. Organizator [WarsawJS][warsawjs].
+Trener z zamiłowania.
 
-[linkedin]: https://www.linkedin.com/in/piecioshka
-[github]: https://github.com/piecioshka
-[youtube]: https://www.youtube.com/user/piecioshka
 [blog]: https://piecioshka.pl/blog/
-[warsawjs]: https://warsawjs.com/
-[fb]: https://www.facebook.com/piecioshka.trener
+[li]: https://linkedin.com/in/piecioshka
+[gh]: https://github.com/piecioshka
+[yt]: https://youtube.com/user/piecioshka
+[fb]: https://facebook.com/piecioshka.trener
+[tt]: https://twitter.com/piecioshka
