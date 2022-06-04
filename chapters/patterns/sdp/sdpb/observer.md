@@ -12,10 +12,10 @@
 ## Description
 
 * Subjects:
-    + observable, ex. document
-    + observer, ex. handleClick
+    + `observable`, ex. document
+    + `observer`, ex. handleClick
 * Use Cases (when to use this pattern)
-    + Communicate two independent sources
+    + **Communicate two independent sources**
 * Pros
     + [Open-Closed Principle](chapters/patterns/solid/open-closed-principle.md)
 * Cons
