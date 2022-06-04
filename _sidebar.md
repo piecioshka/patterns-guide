@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD041 -->
 
 * [Home](README.md)
-* [Agenda](chapters/agenda/workshop.md)
+* [🔥 Tasks](chapters/@tasks.md)
 * [Introduction](chapters/@home.md)
 * [People](chapters/people.md)
 * [Books](chapters/books.md)
@@ -75,5 +75,4 @@
 
 ---
 
-* [🔥 Tasks](chapters/@tasks.md)
 * [Author: **Piotr Kowalski**](AUTHOR.md)
