@@ -1,7 +1,5 @@
 # Introduction
 
-> Last update: **{docsify-updated}**.
-
 ## Resources
 
 * <http://martinfowler.com/eaaDev/>
@@ -15,3 +13,8 @@
 * <https://github.com/fbeline/Design-Patterns-JS>
 * 🚀 <https://refactoring.guru/design-patterns>
 * PL: <https://lukasz-socha.pl/php/wzorce-projektowe-spis-tresci/>
+
+---
+
+> Q: jak rozdzielać pliki np. setup.js na kilka
+> Q: w jaki sposób rozdzielać poszczególne pliki JS?

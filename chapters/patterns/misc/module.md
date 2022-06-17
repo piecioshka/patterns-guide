@@ -1,6 +1,6 @@
 # Module Pattern
 
-> PL: Moduł
+> PL: Moduł, Literał
 
 ## Demo 🎉
 
