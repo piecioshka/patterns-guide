@@ -19,6 +19,22 @@
     width: 150px;
 }
 
+details > summary {
+    cursor: pointer;
+    padding: 5px;
+}
+
+details[open] > summary {
+    background-color: var(--theme-color, grey);
+    color: #fff;
+    border-radius: 2px;
+}
+
+details[open] > summary em,
+details[open] > summary strong {
+    color: inherit;
+}
+
 /* -------------------------------------------------------------------------- */
 
 .pattern-logo {
@@ -26,9 +42,4 @@
     position: absolute;
     top: 150px;
     left: 420px;
-}
-
-summary {
-    padding: 10px 0;
-    cursor: pointer;
 }
