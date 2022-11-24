@@ -20,12 +20,6 @@
     + More files
     + Complicated code
 
-## Talks
-
-* <https://www.youtube.com/watch?v=JVlfj7mQZPo>
-    + Eliminate JavaScript Code Smells
-    + <https://elijahmanor.com/talks/js-smells/>
-
 ## Resources
 
 * 🚀 <https://refactoring.guru/design-patterns/strategy>

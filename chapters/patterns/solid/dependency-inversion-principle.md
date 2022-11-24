@@ -10,6 +10,10 @@
 
 * TODO
 
+## `Dependency Inversion` vs `Dependency Injection`
+
+TODO
+
 ## Resources
 
 * <https://stackoverflow.com/questions/5349003/dependency-inversion-principle-in-javascript>
