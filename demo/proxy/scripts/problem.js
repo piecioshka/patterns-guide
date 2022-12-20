@@ -11,7 +11,7 @@ console.log('%cFile: problem.js', 'color: red');
     }
 
     async function main() {
-        const url = 'https://fakes.herokuapp.com/videos';
+        const url = 'https://fakes.piecioshka.io/videos';
         const data1 = await Request.makeRequest(url);
         console.log(data1);
         const data2 = await Request.makeRequest(url);
