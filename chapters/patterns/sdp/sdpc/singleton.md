@@ -2,7 +2,7 @@
 
 > PL: Pojedyncza rzecz
 
-## Demo 🎉
+## Preview 🎉
 
 * <a href="./demo/singleton/">demo/singleton</a>
 

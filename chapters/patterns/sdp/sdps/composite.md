@@ -2,7 +2,7 @@
 
 > PL: Kompozyt
 
-## Demo 🎉
+## Preview 🎉
 
 * TODO
 

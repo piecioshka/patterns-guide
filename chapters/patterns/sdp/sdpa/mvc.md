@@ -2,7 +2,7 @@
 
 > PL: Model Widok Kontroler
 
-## Demo 🎉
+## Preview 🎉
 
 * <a href="./demo/mvc/">demo/mvc</a>
 

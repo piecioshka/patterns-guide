@@ -4,7 +4,7 @@
 
 <img src="images/icons/electron.svg" class="pattern-logo">
 
-## Demo 🎉
+## Preview 🎉
 
 * <a href="./demo/observer/">demo/observer</a>
 * PL: <https://github.com/piecioshka/poj-lab-5> (Java)

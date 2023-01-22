@@ -2,7 +2,7 @@
 
 > PL: Moduł, Literał
 
-## Demo 🎉
+## Preview 🎉
 
 * TODO
 

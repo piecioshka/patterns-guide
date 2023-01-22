@@ -2,7 +2,7 @@
 
 > PL: Prototyp
 
-## Demo 🎉
+## Preview 🎉
 
 * TODO
 

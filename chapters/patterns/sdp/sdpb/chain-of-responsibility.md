@@ -2,7 +2,7 @@
 
 > PL: Łańcuch odpowiedzialności
 
-## Demo 🎉
+## Preview 🎉
 
 * TODO
 

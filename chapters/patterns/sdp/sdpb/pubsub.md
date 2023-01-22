@@ -2,7 +2,7 @@
 
 > PL: Publikacja / Subskrypcja
 
-## Demo 🎉
+## Preview 🎉
 
 * <a href="./demo/pubsub/">demo/pubsub</a>
 

@@ -2,7 +2,7 @@
 
 > PL: Interpretator
 
-## Demo 🎉
+## Preview 🎉
 
 * TODO
 

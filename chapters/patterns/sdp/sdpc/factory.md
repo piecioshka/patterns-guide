@@ -4,7 +4,7 @@
 
 <img src="images/icons/factory.svg" class="pattern-logo">
 
-## Demo 🎉
+## Preview 🎉
 
 * <a href="./demo/factory/">demo/factory</a>
 

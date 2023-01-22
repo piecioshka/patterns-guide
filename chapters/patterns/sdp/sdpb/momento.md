@@ -2,7 +2,7 @@
 
 > PL: Pamiątka
 
-## Demo 🎉
+## Preview 🎉
 
 * TODO
 

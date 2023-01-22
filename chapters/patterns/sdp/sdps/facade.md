@@ -4,7 +4,7 @@
 
 <img src="images/icons/terrace.svg" class="pattern-logo">
 
-## Demo 🎉
+## Preview 🎉
 
 * <a href="./demo/facade/">demo/facade</a>
 

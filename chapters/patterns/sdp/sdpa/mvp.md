@@ -2,7 +2,7 @@
 
 > PL: Model Widok Prezenter
 
-## Demo 🎉
+## Preview 🎉
 
 * TODO
 

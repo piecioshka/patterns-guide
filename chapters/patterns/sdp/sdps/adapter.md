@@ -4,7 +4,7 @@
 
 <img src="images/icons/wire.svg" class="pattern-logo">
 
-## Demo 🎉
+## Preview 🎉
 
 * <a href="./demo/adapter/">demo/adapter</a>
 

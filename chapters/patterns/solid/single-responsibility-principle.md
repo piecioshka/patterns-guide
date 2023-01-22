@@ -2,7 +2,7 @@
 
 > PL: Zasada minimalnej odpowiedzialności
 
-## Demo 🎉
+## Preview 🎉
 
 * TODO
 

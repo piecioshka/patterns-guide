@@ -2,7 +2,7 @@
 
 > PL: Dekorator
 
-## Demo 🎉
+## Preview 🎉
 
 * TODO
 * PL: <https://github.com/piecioshka/poj-lab-7> (Java)

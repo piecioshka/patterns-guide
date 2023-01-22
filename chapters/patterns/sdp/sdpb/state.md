@@ -2,7 +2,7 @@
 
 > PL: Stan
 
-## Demo 🎉
+## Preview 🎉
 
 * TODO
 

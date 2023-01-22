@@ -2,7 +2,7 @@
 
 > PL: Konstruktor
 
-## Demo 🎉
+## Preview 🎉
 
 * TODO
 

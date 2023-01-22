@@ -2,7 +2,7 @@
 
 > PL: Właściwość
 
-## Demo 🎉
+## Preview 🎉
 
 * TODO
 

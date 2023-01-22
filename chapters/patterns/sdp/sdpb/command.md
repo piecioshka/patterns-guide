@@ -2,7 +2,7 @@
 
 > PL: Polecenie
 
-## Demo 🎉
+## Preview 🎉
 
 * TODO
 

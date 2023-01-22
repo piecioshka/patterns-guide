@@ -2,7 +2,7 @@
 
 > PL: TODO
 
-## Demo 🎉
+## Preview 🎉
 
 * TODO
 

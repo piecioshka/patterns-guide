@@ -2,7 +2,7 @@
 
 > PL: Pośrednik, Mediator
 
-## Demo 🎉
+## Preview 🎉
 
 * <a href="./demo/mediator/">demo/mediator</a>
 

@@ -2,7 +2,7 @@
 
 > PL: Odwiedzający
 
-## Demo 🎉
+## Preview 🎉
 
 * TODO
 

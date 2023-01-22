@@ -2,7 +2,7 @@
 
 > PL: Pusty Obiekt
 
-## Demo 🎉
+## Preview 🎉
 
 * <a href="./demo/null-object/">demo/null-object</a>
 

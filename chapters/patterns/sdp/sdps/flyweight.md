@@ -2,7 +2,7 @@
 
 > PL: Pyłek
 
-## Demo 🎉
+## Preview 🎉
 
 * TODO
 

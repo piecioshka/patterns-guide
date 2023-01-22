@@ -2,7 +2,7 @@
 
 > PL: Metoda Szablonowa
 
-## Demo 🎉
+## Preview 🎉
 
 * TODO
 

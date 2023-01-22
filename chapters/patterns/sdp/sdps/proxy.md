@@ -4,7 +4,7 @@
 
 <img src="images/icons/server.svg" class="pattern-logo">
 
-## Demo 🎉
+## Preview 🎉
 
 * Service Worker is a network proxy
 * <a href="./demo/proxy/">demo/proxy</a>

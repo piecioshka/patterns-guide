@@ -4,7 +4,7 @@
 
 <img src="images/icons/work.svg" class="pattern-logo">
 
-## Demo 🎉
+## Preview 🎉
 
 * <a href="./demo/builder/">demo/builder</a>
 * PL: <https://github.com/piecioshka/poj-lab-2> (Java)

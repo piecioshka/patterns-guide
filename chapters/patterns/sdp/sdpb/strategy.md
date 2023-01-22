@@ -4,7 +4,7 @@
 
 <img src="images/icons/jigsaw.svg" class="pattern-logo">
 
-## Demo 🎉
+## Preview 🎉
 
 * <a href="./demo/strategy/">demo/strategy</a>
 

@@ -2,7 +2,7 @@
 
 > PL: Dziedziczenie
 
-## Demo 🎉
+## Preview 🎉
 
 * TODO
 
