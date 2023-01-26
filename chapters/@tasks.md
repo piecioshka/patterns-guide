@@ -13,7 +13,7 @@ During these workshops, we will focus on patterns:
 
 * [ ] About me?
     + blog <https://piecioshka.pl/>
-    + <https://fb.com/piecioshka.trener/>
+    + <https://facebook.com/piecioshka.dev/>
     + videos & live <https://youtube.com/piecioshka>
     + regular live <https://www.instagram.com/piecioshka/>
 * [ ] About you!

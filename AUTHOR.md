@@ -18,5 +18,5 @@ Trener z zamiłowania.
 [li]: https://linkedin.com/in/piecioshka
 [gh]: https://github.com/piecioshka
 [yt]: https://youtube.com/user/piecioshka
-[fb]: https://facebook.com/piecioshka.trener
+[fb]: https://facebook.com/piecioshka.dev
 [tt]: https://twitter.com/piecioshka
