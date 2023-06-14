@@ -80,8 +80,8 @@ class Glue {
 
 // -----------------------------------------------------------------------------
 
-let engine = new Engine();
-let gui = new GUI();
+const engine = new Engine();
+const gui = new GUI();
 
 engine.on('all', (name, payload) => {
     console.log('[ENGINE]', name, payload);
