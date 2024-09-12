@@ -3,13 +3,13 @@
 <img
     style="float: left; margin-right: 10px;"
     src="https://piecioshka.pl/assets/images/me/piotr-kowalski-200x200.jpg"
-    alt=""/>
+    alt="Piotr Kowalski"/>
 
-Entuzjasta [programowania][gh]. Miłośnik JavaScriptu.
-[Pracowity][li], pomocny. Łamie stereotyp programisty zamkniętego w sobie.
+Entuzjasta [programowania][gh]. Miłośnik JavaScriptu.<br/>
+[Pracowity][li], pomocny. Łamie stereotyp programisty zamkniętego w sobie.<br/>
 [Otwiera się na innych][tt] oraz na [nowe pomysły][fb]!
 
-Twórca filmów o programowaniu na [prywatnym kanale][yt] na YouTube.
+Twórca filmów o programowaniu na [prywatnym kanale][yt] na YouTube.<br/>
 Autor kilkuset artykułów technicznych publikowanych na łamach [swojego bloga][blog].
 
 Trener z zamiłowania.
