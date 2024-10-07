@@ -13,6 +13,7 @@
 * <https://github.com/fbeline/Design-Patterns-JS>
 * 🚀 <https://refactoring.guru/design-patterns>
 * PL: <https://lukasz-socha.pl/php/wzorce-projektowe-spis-tresci/>
+* <https://github.com/kamranahmedse/design-patterns-for-humans>
 
 ---
 
