@@ -1,7 +1,5 @@
 # patterns-guide
 
-[![travis-ci](https://api.travis-ci.com/piecioshka/patterns-guide.svg?branch=master)](https://app.travis-ci.com/github/piecioshka/patterns-guide)
-
 📘 Guide through **Design Patterns** (in JavaScript)
 
 > Give a ⭐️ if this project helped you!
