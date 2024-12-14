@@ -1,5 +1,3 @@
-<!-- markdownlint-disable MD041 -->
-
 * [Home](README.md)
 * [🔥 Tasks](chapters/@tasks.md)
 * [Introduction](chapters/@home.md)
