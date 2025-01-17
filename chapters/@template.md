@@ -4,22 +4,22 @@
 
 ## Preview 🎉
 
-* TODO
+- TODO
 
 ## Description
 
-* TODO
-* Use Cases (when to use this pattern)
-    + TODO
-* Pros
-    + TODO
-* Cons
-    + TODO
+- TODO
+- Use Cases (when to use this pattern)
+    - TODO
+- Pros
+    - TODO
+- Cons
+    - TODO
 
 ## Talks
 
-* ...
+- ...
 
 ## Resources
 
-* ...
+- ...

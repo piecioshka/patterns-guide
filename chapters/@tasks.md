@@ -11,18 +11,18 @@ During these workshops, we will focus on patterns:
 <details>
 <summary>Welcome <em>(15m)</em></summary>
 
-* [ ] About me?
+- [ ] About me?
     + blog <https://piecioshka.pl/>
     + <https://facebook.com/piecioshka.dev/>
     + videos & live <https://youtube.com/piecioshka>
     + regular live <https://www.instagram.com/piecioshka/>
-* [ ] About you!
+- [ ] About you!
     + Current skill status
     + Do not afraid asking
-* [ ] Software requirements
+- [ ] Software requirements
     + <https://github.com/piecioshka/test-solidarity>
     + Git, Node.js, npm, SSH, GiThub auth, Visual Studio Code, Google Chrome
-* [ ] JavaScript requirements
+- [ ] JavaScript requirements
     + var, let, const
     + function, class
     + callback, promise
@@ -35,12 +35,12 @@ During these workshops, we will focus on patterns:
 <details>
 <summary>Intro <em>(10m)</em></summary>
 
-* [ ] What is this "design pattern"?
-* [ ] What is "design pattern" for?
-* [ ] [People](chapters/people.md)
+- [ ] What is this "design pattern"?
+- [ ] What is "design pattern" for?
+- [ ] [People](chapters/people.md)
     + Gang of Four
     + Other
-* [ ] Types
+- [ ] Types
     + Creational
     + Behavioral
     + Structural
@@ -50,13 +50,13 @@ During these workshops, we will focus on patterns:
 <details>
 <summary>Tasks <em>(200m)</em></summary>
 
-* [ ] _(Creational)_ Factory Method
-* [ ] _(Creational)_ Builder
-* [ ] _(Structural)_ Facade
-* [ ] _(Structural)_ Proxy
-* [ ] _(Structural)_ Adapter (Wrapper)
-* [ ] _(Behavioral)_ Observer
-* [ ] _(Behavioral)_ Strategy
+- [ ] _(Creational)_ Factory Method
+- [ ] _(Creational)_ Builder
+- [ ] _(Structural)_ Facade
+- [ ] _(Structural)_ Proxy
+- [ ] _(Structural)_ Adapter (Wrapper)
+- [ ] _(Behavioral)_ Observer
+- [ ] _(Behavioral)_ Strategy
 
 </details>
 
