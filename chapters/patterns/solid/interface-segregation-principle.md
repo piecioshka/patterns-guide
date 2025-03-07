@@ -4,12 +4,12 @@
 
 ## Preview 🎉
 
-* TODO
+- TODO
 
 ## Description
 
-* TODO
+- TODO
 
 ## Resources
 
-* <https://en.wikipedia.org/wiki/Interface_segregation_principle>
+- <https://en.wikipedia.org/wiki/Interface_segregation_principle>

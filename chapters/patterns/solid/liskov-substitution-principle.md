@@ -4,12 +4,12 @@
 
 ## Preview 🎉
 
-* TODO
+- TODO
 
 ## Description
 
-* TODO
+- TODO
 
 ## Resources
 
-* <https://stackoverflow.com/questions/56860/what-is-an-example-of-the-liskov-substitution-principle>
+- <https://stackoverflow.com/questions/56860/what-is-an-example-of-the-liskov-substitution-principle>

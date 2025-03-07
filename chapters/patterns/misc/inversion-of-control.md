@@ -4,12 +4,12 @@
 
 ## Preview 🎉
 
-* TODO
+- TODO
 
 ## Description
 
-* TODO
+- TODO
 
 ## Resources
 
-* <https://en.wikipedia.org/wiki/Inversion_of_control>
+- <https://en.wikipedia.org/wiki/Inversion_of_control>

@@ -4,13 +4,13 @@
 
 ## Preview 🎉
 
-* TODO
-* PL: <https://github.com/piecioshka/poj-lab-1> (Java)
+- TODO
+- PL: <https://github.com/piecioshka/poj-lab-1> (Java)
 
 ## Description
 
-* TODO
+- TODO
 
 ## Resources
 
-* <https://github.com/jquery-boilerplate/jquery-patterns/wiki/jQuery-Plugin-Patterns-Guide>
+- <https://github.com/jquery-boilerplate/jquery-patterns/wiki/jQuery-Plugin-Patterns-Guide>

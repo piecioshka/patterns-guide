@@ -4,13 +4,13 @@
 
 ## Preview 🎉
 
-* TODO
+- TODO
 
 ## Description
 
-* TODO
+- TODO
 
 ## Resources
 
-* 🚀 <https://refactoring.guru/design-patterns/visitor>
-* <https://www.dofactory.com/javascript/visitor-design-pattern>
+- 🚀 <https://refactoring.guru/design-patterns/visitor>
+- <https://www.dofactory.com/javascript/visitor-design-pattern>

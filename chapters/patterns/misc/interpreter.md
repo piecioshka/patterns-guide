@@ -4,12 +4,12 @@
 
 ## Preview 🎉
 
-* TODO
+- TODO
 
 ## Description
 
-* TODO
+- TODO
 
 ## Resources
 
-* <https://www.dofactory.com/javascript/interpreter-design-pattern>
+- <https://www.dofactory.com/javascript/interpreter-design-pattern>

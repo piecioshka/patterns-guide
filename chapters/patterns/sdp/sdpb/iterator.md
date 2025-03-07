@@ -4,14 +4,14 @@
 
 ## Preview 🎉
 
-* TODO
+- TODO
 
 ## Description
 
-* TODO
+- TODO
 
 ## Resources
 
-* 🚀 <https://refactoring.guru/design-patterns/iterator>
-* <https://www.dofactory.com/javascript/iterator-design-pattern>
-* <https://addyosmani.com/resources/essentialjsdesignpatterns/book/#iteratorpatternjquery>
+- 🚀 <https://refactoring.guru/design-patterns/iterator>
+- <https://www.dofactory.com/javascript/iterator-design-pattern>
+- <https://addyosmani.com/resources/essentialjsdesignpatterns/book/#iteratorpatternjquery>

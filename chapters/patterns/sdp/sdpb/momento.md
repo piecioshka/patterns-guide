@@ -4,13 +4,13 @@
 
 ## Preview 🎉
 
-* TODO
+- TODO
 
 ## Description
 
-* TODO
+- TODO
 
 ## Resources
 
-* 🚀 <https://refactoring.guru/design-patterns/memento>
-* <https://www.dofactory.com/javascript/memento-design-pattern>
+- 🚀 <https://refactoring.guru/design-patterns/memento>
+- <https://www.dofactory.com/javascript/memento-design-pattern>

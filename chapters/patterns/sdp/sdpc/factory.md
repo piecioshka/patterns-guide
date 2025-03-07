@@ -6,15 +6,15 @@
 
 ## Preview 🎉
 
-* <a href="./demo/factory/">demo/factory</a>
+- <a href="./demo/factory/">demo/factory</a>
 
 ## Description
 
-* TODO
+- TODO
 
 ## Resources
 
-* <https://www.dofactory.com/javascript/factory-method-design-pattern>
-* <https://medium.com/front-end-weekly/understand-the-factory-design-pattern-in-plain-javascript-20b348c832bd>
-* <https://www.tutorialspoint.com/design_pattern/factory_pattern.htm>
-* <https://alligator.io/js/factory-pattern/>
+- <https://www.dofactory.com/javascript/factory-method-design-pattern>
+- <https://medium.com/front-end-weekly/understand-the-factory-design-pattern-in-plain-javascript-20b348c832bd>
+- <https://www.tutorialspoint.com/design_pattern/factory_pattern.htm>
+- <https://alligator.io/js/factory-pattern/>

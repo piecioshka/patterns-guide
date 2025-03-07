@@ -1,45 +1,45 @@
 .app-name img {
-    width: 200px;
+  width: 200px;
 }
 
 .app-nav {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    margin: 0;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  margin: 0;
 }
 
 .app-nav a {
-    padding: 0;
-    margin: 0;
-    border-bottom: none;
+  padding: 0;
+  margin: 0;
+  border-bottom: none;
 }
 
 .app-nav img {
-    width: 150px;
+  width: 150px;
 }
 
 details > summary {
-    cursor: pointer;
-    padding: 5px;
+  cursor: pointer;
+  padding: 5px;
 }
 
 details[open] > summary {
-    background-color: var(--theme-color, grey);
-    color: #fff;
-    border-radius: 2px;
+  background-color: var(--theme-color, grey);
+  color: #fff;
+  border-radius: 2px;
 }
 
 details[open] > summary em,
 details[open] > summary strong {
-    color: inherit;
+  color: inherit;
 }
 
 /* -------------------------------------------------------------------------- */
 
 .pattern-logo {
-    width: 100px;
-    position: absolute;
-    top: 150px;
-    left: 420px;
+  width: 100px;
+  position: absolute;
+  top: 150px;
+  left: 420px;
 }

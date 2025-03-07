@@ -4,12 +4,12 @@
 
 ## Preview 🎉
 
-* TODO
+- TODO
 
 ## Description
 
-* Wydzielić podobne kawałki kodu do jednej funkcji
+- Wydzielić podobne kawałki kodu do jednej funkcji
 
 ## Resources
 
-* <https://en.wikipedia.org/wiki/Don%27t_repeat_yourself>
+- <https://en.wikipedia.org/wiki/Don%27t_repeat_yourself>

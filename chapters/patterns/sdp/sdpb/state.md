@@ -4,13 +4,13 @@
 
 ## Preview 🎉
 
-* TODO
+- TODO
 
 ## Description
 
-* TODO
+- TODO
 
 ## Resources
 
-* 🚀 <https://refactoring.guru/design-patterns/state>
-* <https://www.dofactory.com/javascript/state-design-pattern>
+- 🚀 <https://refactoring.guru/design-patterns/state>
+- <https://www.dofactory.com/javascript/state-design-pattern>

@@ -4,12 +4,12 @@
 
 ## Preview 🎉
 
-* TODO
+- TODO
 
 ## Description
 
-* TODO
+- TODO
 
 ## Resources
 
-* <https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it>
+- <https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it>

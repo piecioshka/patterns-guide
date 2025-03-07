@@ -4,18 +4,18 @@
 
 ## Preview 🎉
 
-* TODO
+- TODO
 
 ## Description
 
-* TODO
-* Use Cases (when to use this pattern)
-    + TODO
-* Pros
-    + TODO
-* Cons
-    + TODO
+- TODO
+- Use Cases (when to use this pattern)
+  - TODO
+- Pros
+  - TODO
+- Cons
+  - TODO
 
 ## Resources
 
-* PL: <https://frontstack.pl/constructor-design-pattern/>
+- PL: <https://frontstack.pl/constructor-design-pattern/>

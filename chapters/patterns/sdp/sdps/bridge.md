@@ -4,14 +4,14 @@
 
 ## Preview 🎉
 
-* TODO
+- TODO
 
 ## Description
 
-* TODO
+- TODO
 
 ## Resources
 
-* 🚀 <https://refactoring.guru/design-patterns/bridge>
-* <https://www.dofactory.com/javascript/bridge-design-pattern>
-* PL: <http://www.algorytm.org/wzorce-projektowe/most-bridge.html>
+- 🚀 <https://refactoring.guru/design-patterns/bridge>
+- <https://www.dofactory.com/javascript/bridge-design-pattern>
+- PL: <http://www.algorytm.org/wzorce-projektowe/most-bridge.html>

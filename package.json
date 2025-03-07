@@ -1,22 +1,22 @@
 {
-    "private": true,
-    "name": "patterns-guide",
-    "description": "📘 Guide through Design Patterns (in JavaScript)",
-    "version": "0.0.0",
-    "license": "MIT",
-    "author": {
-        "name": "Piotr Kowalski",
-        "email": "piecioshka@gmail.com",
-        "url": "https://piecioshka.pl/"
-    },
-    "scripts": {
-        "build:pdf": "docsify-pdf-converter"
-    },
-    "devDependencies": {
-        "docsify-pdf-converter": "^2.0.7"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/piecioshka/patterns-guide.git"
-    }
+  "private": true,
+  "name": "patterns-guide",
+  "description": "📘 Guide through Design Patterns (in JavaScript)",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Piotr Kowalski",
+    "email": "piecioshka@gmail.com",
+    "url": "https://piecioshka.pl/"
+  },
+  "scripts": {
+    "build:pdf": "docsify-pdf-converter"
+  },
+  "devDependencies": {
+    "docsify-pdf-converter": "^2.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piecioshka/patterns-guide.git"
+  }
 }

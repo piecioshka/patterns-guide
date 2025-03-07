@@ -4,12 +4,12 @@
 
 ## Preview 🎉
 
-* <a href="./demo/pubsub/">demo/pubsub</a>
+- <a href="./demo/pubsub/">demo/pubsub</a>
 
 ## Description
 
-* TODO
+- TODO
 
 ## Resources
 
-* <https://jsmanifest.com/the-publish-subscribe-pattern-in-javascript/>
+- <https://jsmanifest.com/the-publish-subscribe-pattern-in-javascript/>

@@ -4,12 +4,12 @@
 
 ## Preview 🎉
 
-* TODO
+- TODO
 
 ## Description
 
-* TODO
+- TODO
 
 ## Resources
 
-* <https://www.enterpriseintegrationpatterns.com/patterns/messaging/SmartProxy.html>
+- <https://www.enterpriseintegrationpatterns.com/patterns/messaging/SmartProxy.html>

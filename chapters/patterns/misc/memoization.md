@@ -4,12 +4,12 @@
 
 ## Preview 🎉
 
-* TODO
+- TODO
 
 ## Description
 
-* TODO
+- TODO
 
 ## Resource
 
-* PL: <https://www.nafrontendzie.pl/wzorzec-memoization-javascript>
+- PL: <https://www.nafrontendzie.pl/wzorzec-memoization-javascript>

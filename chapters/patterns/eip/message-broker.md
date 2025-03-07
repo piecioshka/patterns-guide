@@ -4,12 +4,12 @@
 
 ## Preview 🎉
 
-* TODO
+- TODO
 
 ## Description
 
-* TODO
+- TODO
 
 ## Tools
 
-* <https://github.com/postaljs/postal.js>
+- <https://github.com/postaljs/postal.js>

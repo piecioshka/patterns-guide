@@ -10,11 +10,11 @@
 
 - TODO
 - Use Cases (when to use this pattern)
-    - TODO
+  - TODO
 - Pros
-    - TODO
+  - TODO
 - Cons
-    - TODO
+  - TODO
 
 ## Talks
 
