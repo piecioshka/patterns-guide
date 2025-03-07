@@ -12,4 +12,4 @@
 
 ## Resources
 
-* <http://www.enterpriseintegrationpatterns.com/patterns/messaging/SmartProxy.html>
+* <https://www.enterpriseintegrationpatterns.com/patterns/messaging/SmartProxy.html>

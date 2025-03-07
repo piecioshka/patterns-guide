@@ -12,4 +12,4 @@
 
 ## Resources
 
-* <http://www.enterpriseintegrationpatterns.com/patterns/messaging/ControlBus.html>
+* <https://www.enterpriseintegrationpatterns.com/patterns/messaging/ControlBus.html>

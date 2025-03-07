@@ -33,6 +33,6 @@
 * 🚀 <https://refactoring.guru/design-patterns/adapter>
 * <https://www.dofactory.com/javascript/adapter-design-pattern>
 * <https://en.wikipedia.org/wiki/Adapter_pattern>
-* <http://addyosmani.com/resources/essentialjsdesignpatterns/book/#wrapperpatternjquery>
+* <https://addyosmani.com/resources/essentialjsdesignpatterns/book/#wrapperpatternjquery>
 * PL: <https://frontstack.pl/adapter-design-pattern/>
 * PL: <https://lukasz-socha.pl/php/wzorce-projektowe-cz-8-adapter/> (PHP)

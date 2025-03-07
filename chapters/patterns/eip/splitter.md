@@ -12,4 +12,4 @@
 
 ## Resources
 
-* <http://www.enterpriseintegrationpatterns.com/patterns/messaging/Sequencer.html>
+* <https://www.enterpriseintegrationpatterns.com/patterns/messaging/Sequencer.html>

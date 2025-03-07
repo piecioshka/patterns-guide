@@ -2,7 +2,7 @@
 
 * Martin Fowler
     + British software developer
-    + <http://martinfowler.com/>
+    + <https://martinfowler.com/>
     + <https://en.wikipedia.org/wiki/Martin_Fowler_(software_engineer)>
 * Bertrand Meyer
     + French academic
