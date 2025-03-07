@@ -4,20 +4,20 @@ console.log('%cFile: solution.js', 'color: green');
 
 {
 
-    class UniversumManager {
+    class UniversalManager {
         static _instance = null;
 
         constructor(name) {
-            if (UniversumManager._instance) {
-                return UniversumManager._instance;
+            if (UniversalManager._instance) {
+                return UniversalManager._instance;
             }
 
             this.name = name;
-            UniversumManager._instance = this;
+            UniversalManager._instance = this;
         }
 
         static getInstance() {
-            return UniversumManager._instance;
+            return UniversalManager._instance;
         }
 
         getName() {
@@ -25,10 +25,10 @@ console.log('%cFile: solution.js', 'color: green');
         }
     }
 
-    const um1 = new UniversumManager('Kakarotto');
-    const um2 = new UniversumManager('Vegeta');
-    const um3 = UniversumManager.getInstance();
-    const um4 = UniversumManager.getInstance();
+    const um1 = new UniversalManager('Kakarotto');
+    const um2 = new UniversalManager('Vegeta');
+    const um3 = UniversalManager.getInstance();
+    const um4 = UniversalManager.getInstance();
 
     console.log(um1 === um2);
     console.log(um1 === um3);
