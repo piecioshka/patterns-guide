@@ -1,24 +1,38 @@
 # patterns-guide
 
-📘 Guide through **Design Patterns** (in JavaScript)
+📘 **Design Patterns Guide**
 
 > Give a ⭐️ if this project helped you!
 
-## Demos
+## Pattern examples in JavaScript
+
+### Creational
+
+- [Builder](demo/builder/)
+- [Factory Method](demo/factory-method/)
+- [Singleton](demo/singleton/)
+
+### Structural
 
 - [Adapter](demo/adapter/)
-- [Builder](demo/builder/)
 - [Facade](demo/facade/)
-- [Factory Method](demo/factory-method/)
-- [Mediator](demo/mediator/)
-- [MVC](demo/mvc/)
-- [Null Object](demo/null-object/)
-- [Observer](demo/observer/)
 - [Proxy](demo/proxy/)
+
+### Behavioral
+
+- [Mediator](demo/mediator/)
+- [Observer](demo/observer/)
 - [PubSub](demo/pubsub/)
-- [Singleton](demo/singleton/)
 - [Strategy](demo/strategy/)
+
+### Architectural
+
+- [MVC](demo/mvc/)
+
+### Others
+
+- [Null Object](demo/null-object/)
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2020
+[The MIT License](https://piecioshka.mit-license.org) @ 2020
