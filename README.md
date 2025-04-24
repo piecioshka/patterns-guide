@@ -8,31 +8,27 @@
 
 ### Creational
 
-- [Builder](demo/builder/)
-- [Factory Method](demo/factory-method/)
-- [Singleton](demo/singleton/)
+- [Builder](/chapters/patterns/sdp/sdpc/builder) [[demo](https://github.com/piecioshka/patterns-guide/tree/main/demo/builder/)]
+- [Factory Method](/chapters/patterns/sdp/sdpc/factory-method) [[demo](https://github.com/piecioshka/patterns-guide/tree/main/demo/factory-method/)]
+- [Singleton](/chapters/patterns/sdp/sdpc/singleton) [[demo](https://github.com/piecioshka/patterns-guide/tree/main/demo/singleton/)]
 
 ### Structural
 
-- [Adapter](demo/adapter/)
-- [Facade](demo/facade/)
-- [Proxy](demo/proxy/)
+- [Adapter](/chapters/patterns/sdp/sdps/adapter) [[demo](https://github.com/piecioshka/patterns-guide/tree/main/demo/adapter/)]
+- [Facade](/chapters/patterns/sdp/sdps/facade) [[demo](https://github.com/piecioshka/patterns-guide/tree/main/demo/facade/)]
+- [Proxy](/chapters/patterns/sdp/sdps/proxy) [[demo](https://github.com/piecioshka/patterns-guide/tree/main/demo/proxy/)]
 
 ### Behavioral
 
-- [Mediator](demo/mediator/)
-- [Observer](demo/observer/)
-- [PubSub](demo/pubsub/)
-- [Strategy](demo/strategy/)
+- [Mediator](/chapters/patterns/sdp/sdpb/mediator) [[demo](https://github.com/piecioshka/patterns-guide/tree/main/demo/mediator/)]
+- [Observer](/chapters/patterns/sdp/sdpb/observer) [[demo](https://github.com/piecioshka/patterns-guide/tree/main/demo/observer/)]
+- [PubSub](/chapters/patterns/sdp/sdpb/pubsub) [[demo](https://github.com/piecioshka/patterns-guide/tree/main/demo/pubsub/)]
+- [Strategy](/chapters/patterns/sdp/sdpb/strategy) [[demo](https://github.com/piecioshka/patterns-guide/tree/main/demo/strategy/)]
 
 ### Architectural
 
-- [MVC](demo/mvc/)
+- [MVC](/chapters/patterns/sdp/sdpa/mvc) [[demo](https://github.com/piecioshka/patterns-guide/tree/main/demo/mvc/)]
 
 ### Others
 
-- [Null Object](demo/null-object/)
-
-## License
-
-[The MIT License](https://piecioshka.mit-license.org) @ 2020
+- [Null Object](/chapters/patterns/misc/null-object) [[demo](https://github.com/piecioshka/patterns-guide/tree/main/demo/null-object/)]
