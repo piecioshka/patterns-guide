@@ -10,6 +10,7 @@
     "url": "https://piecioshka.pl/"
   },
   "scripts": {
+    "start": "docsify serve .",
     "build:pdf": "docsify-pdf-converter"
   },
   "devDependencies": {
