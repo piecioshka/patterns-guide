@@ -1,7 +1,8 @@
 module.exports = {
+  contents: ["_sidebar.md"],
+  emulateMedia: "screen",
   mainMdFilename: "README.md",
-  markdownStylesLayout: "github",
+  pathToPublic: "tmp/guide.pdf",
+  pdfOptions: "<options for puppeteer.pdf()>", // reference: https://pptr.dev/api/puppeteer.pdfoptions
   removeTemp: true,
-  contents: "_sidebar.md",
-  pathToPublic: "./guide.pdf",
 };
