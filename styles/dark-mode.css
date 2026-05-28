@@ -1,0 +1,195 @@
+/* Dark mode toggle (floating button) */
+.dark-mode-toggle {
+  position: fixed;
+  left: 316px;
+  top: 16px;
+  z-index: 1000;
+  width: 36px;
+  height: 36px;
+  border: 1px solid #d0d7de;
+  border-radius: 50%;
+  background: #fff;
+  color: #24292f;
+  cursor: pointer;
+  font-size: 18px;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease,
+    border-color 0.2s ease;
+}
+
+.dark-mode-toggle:hover {
+  background: #f6f8fa;
+}
+
+/* Dark mode */
+body.dark-mode {
+  background: #0d1117;
+  color: #c9d1d9;
+}
+
+body.dark-mode .sidebar,
+body.dark-mode .sidebar-toggle,
+body.dark-mode .content {
+  background: #0d1117;
+}
+
+body.dark-mode .sidebar {
+  border-right: 1px solid #21262d;
+}
+
+body.dark-mode .sidebar ul li a {
+  color: #c9d1d9;
+}
+
+body.dark-mode .sidebar ul li.active > a,
+body.dark-mode .sidebar ul li a:hover {
+  color: var(--theme-color, #58a6ff);
+}
+
+body.dark-mode .app-name-link {
+  color: #c9d1d9;
+}
+
+body.dark-mode .markdown-section {
+  color: #c9d1d9;
+}
+
+body.dark-mode .markdown-section h1,
+body.dark-mode .markdown-section h2,
+body.dark-mode .markdown-section h3,
+body.dark-mode .markdown-section h4,
+body.dark-mode .markdown-section h5,
+body.dark-mode .markdown-section h6 {
+  color: #f0f6fc;
+}
+
+body.dark-mode .markdown-section a {
+  color: #58a6ff;
+}
+
+body.dark-mode .markdown-section strong {
+  color: #f0f6fc;
+}
+
+body.dark-mode .markdown-section blockquote {
+  color: #8b949e;
+  border-left-color: #30363d;
+  background: #161b22;
+}
+
+body.dark-mode .markdown-section hr,
+body.dark-mode .sidebar hr {
+  background: #30363d;
+  border: 0;
+  height: 1px;
+}
+
+body.dark-mode .markdown-section code {
+  background: #161b22;
+  color: #d2a8ff;
+}
+
+body.dark-mode .markdown-section pre,
+body.dark-mode .markdown-section pre > code {
+  background: #161b22;
+  color: #c9d1d9;
+}
+
+body.dark-mode .markdown-section pre::after {
+  color: #8b949e;
+}
+
+body.dark-mode .markdown-section table tr {
+  background: #0d1117;
+  border-top-color: #30363d;
+}
+
+body.dark-mode .markdown-section table tr:nth-child(2n) {
+  background: #161b22;
+}
+
+body.dark-mode .markdown-section table th,
+body.dark-mode .markdown-section table td {
+  border-color: #30363d;
+}
+
+body.dark-mode .markdown-section table th {
+  background: #161b22;
+  color: #f0f6fc;
+}
+
+body.dark-mode .markdown-section tip,
+body.dark-mode .markdown-section .tip {
+  background: #161b22;
+  border-color: #30363d;
+}
+
+body.dark-mode details > summary {
+  background-color: #161b22;
+  color: #c9d1d9;
+}
+
+body.dark-mode details[open] > summary {
+  background-color: var(--theme-color, #1f6feb);
+  color: #fff;
+}
+
+body.dark-mode .sidebar code {
+  background-color: #161b22;
+  color: #d2a8ff;
+}
+
+body.dark-mode .search input[type="search"] {
+  background: #161b22;
+  color: #c9d1d9;
+  border-color: #30363d;
+}
+
+body.dark-mode .search .results-panel {
+  background: #0d1117;
+  color: #c9d1d9;
+}
+
+body.dark-mode .search {
+  border-bottom: 1px solid #30363d;
+}
+
+body.dark-mode .search .matching-post {
+  border-bottom: 1px solid #30363d;
+}
+
+body.dark-mode .search .matching-post h2,
+body.dark-mode .search .matching-post a {
+  color: #f0f6fc;
+}
+
+body.dark-mode .search .matching-post em {
+  color: var(--theme-color, #58a6ff);
+}
+
+body.dark-mode .dark-mode-toggle {
+  background: #161b22;
+  color: #f0f6fc;
+  border-color: #30363d;
+}
+
+body.dark-mode .dark-mode-toggle:hover {
+  background: #21262d;
+}
+
+body.dark-mode img:not([src*=".svg"]) {
+  filter: brightness(0.85);
+}
+
+@media (max-width: 768px) {
+  .dark-mode-toggle {
+    left: auto;
+    right: 16px;
+  }
+}
