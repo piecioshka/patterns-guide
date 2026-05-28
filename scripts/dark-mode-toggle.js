@@ -1,5 +1,5 @@
 (function () {
-  const STORAGE_KEY = "guide:dark-mode";
+  const STORAGE_KEY = "color-scheme";
   const DARK_CLASS = "dark-mode";
   const ICON_DARK = "☀️";
   const ICON_LIGHT = "🌙";
