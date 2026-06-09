@@ -39,7 +39,35 @@
           crossChapter: true,
           crossChapterText: true,
         },
+        markdown: {
+          renderer: {
+            code(code, lang) {
+              if (lang === "mermaid") {
+                return `<div class="mermaid">${code}</div>`;
+              }
+              return this.origin.code.apply(this, arguments);
+            },
+          },
+        },
+        plugins: [
+          function mermaidPlugin(hook) {
+            hook.doneEach(function () {
+              if (!window.mermaid) return;
+              const nodes = document.querySelectorAll(
+                ".mermaid:not([data-processed])"
+              );
+              if (nodes.length === 0) return;
+              // run() zwraca Promise — łapiemy odrzucenie, by konsola była czysta
+              Promise.resolve(window.mermaid.run({ nodes })).catch(() => {});
+            });
+          },
+        ],
       };
+    </script>
+    <script src="//unpkg.com/mermaid/dist/mermaid.min.js"></script>
+    <script>
+      window.mermaid &&
+        window.mermaid.initialize({ startOnLoad: false, theme: "default" });
     </script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
     <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
