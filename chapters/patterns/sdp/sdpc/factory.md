@@ -1,6 +1,6 @@
-# Software Design Patterns / Creational / Factory (Method, Function)
+# Software Design Patterns / Creational / Simple Factory (Factory Function)
 
-> PL: Fabryka
+> PL: Fabryka prosta
 
 <img src="images/icons/factory.svg" class="pattern-logo">
 
@@ -10,14 +10,27 @@
 
 ## Description
 
-**Fabryka** to wzorzec kreacyjny, który oddziela _tworzenie_ obiektu od jego
-_użycia_. Zamiast wołać `new ConcreteClass()` w wielu miejscach, klient prosi
-o obiekt jedną metodę fabryczną i dostaje gotowy egzemplarz — nie wiedząc,
-która konkretnie klasa stoi za daną „etykietą".
+**Simple Factory** (zwana też _Factory Function_) to **idiom**, a nie formalny
+wzorzec z katalogu „Gang of Four". Jego sednem jest jedna funkcja/metoda, która
+centralizuje tworzenie obiektów: zamiast wołać `new ConcreteClass()` w wielu
+miejscach, klient prosi o obiekt jedną metodą fabryczną i dostaje gotowy
+egzemplarz — nie wiedząc, która konkretnie klasa stoi za daną „etykietą".
 
 Dzięki temu logika decydująca „co i jak utworzyć" mieszka w jednym miejscu.
 Gdy pojawia się nowy typ produktu, zmieniasz wyłącznie fabrykę — kod kliencki
 zostaje nietknięty.
+
+> ⚠️ **Nie myl z** [Factory Method](chapters/patterns/sdp/sdpc/factory-method.md)
+> ani [Abstract Factory](chapters/patterns/sdp/sdpc/abstract-factory.md) —
+> patrz tabela poniżej.
+
+### Simple Factory vs Factory Method vs Abstract Factory
+
+| Nazwa | Wzorzec GoF? | Sedno |
+|---|---|---|
+| **Simple Factory** (ta strona) | ❌ idiom | Jedna funkcja/metoda centralizuje `new` (np. `createComputer(type)`). |
+| [Factory Method](chapters/patterns/sdp/sdpc/factory-method.md) | ✅ tak | Klasa-twórca ma metodę, którą **podklasy nadpisują**, by zdecydować, jaki produkt powstanie. |
+| [Abstract Factory](chapters/patterns/sdp/sdpc/abstract-factory.md) | ✅ tak | Tworzy **całe rodziny** powiązanych obiektów. |
 
 - Use Cases (kiedy stosować)
   - Tworzenie obiektów zależy od konfiguracji / danych wejściowych
@@ -33,6 +46,8 @@ zostaje nietknięty.
   - Dodatkowa warstwa abstrakcji = więcej kodu przy prostych przypadkach.
   - Nadużywana bywa „fabryką do wszystkiego", która łamie
     [Single Responsibility Principle](chapters/patterns/solid/single-responsibility-principle.md).
+  - To tylko idiom — gdy potrzebujesz polimorficznego rozszerzania przez
+    podklasy, sięgnij po [Factory Method](chapters/patterns/sdp/sdpc/factory-method.md).
 
 ## Diagram
 
@@ -52,7 +67,9 @@ classDiagram
 ```
 
 Klient zna tylko fabrykę i jej metodę `createComputer(type)`. To fabryka
-decyduje, jaki obiekt powstanie — i czy w ogóle powstanie.
+decyduje, jaki obiekt powstanie — i czy w ogóle powstanie. Zwróć uwagę: tu nie
+ma dziedziczenia — to właśnie odróżnia Simple Factory od
+[Factory Method](chapters/patterns/sdp/sdpc/factory-method.md).
 
 ## Example
 
@@ -106,12 +123,13 @@ cf.createComputer("notebook"); // Computer { type: "notebook" }
 cf.createComputer("macbook"); // null — nieznany typ obsłużony centralnie
 ```
 
-> 💡 W JavaScript fabryką bywa też zwykła **funkcja**, która zwraca obiekt —
-> nie potrzebujesz klas, aby skorzystać z tego wzorca.
+> 💡 W JavaScript Simple Factory bywa też zwykłą **funkcją**, która zwraca obiekt
+> (`const createComputer = (type) => ({ type })`) — nie potrzebujesz klas, aby
+> skorzystać z tego idiomu.
 
 ## Resources
 
-- 🚀 <https://refactoring.guru/design-patterns/factory-method>
+- 🚀 <https://refactoring.guru/design-patterns/factory-comparison>
 - <https://www.dofactory.com/javascript/factory-method-design-pattern>
 - <https://medium.com/front-end-weekly/understand-the-factory-design-pattern-in-plain-javascript-20b348c832bd>
 - <https://www.tutorialspoint.com/design_pattern/factory_pattern.htm>
