@@ -6,7 +6,7 @@
 
 ## Preview 🎉
 
-- <a href="./demo/factory-method/">demo/factory-method</a>
+- <a href="./demo/factory/">demo/factory</a>
 
 ## Description
 

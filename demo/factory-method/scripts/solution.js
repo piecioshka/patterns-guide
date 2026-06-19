@@ -4,43 +4,58 @@ console.log('%cFile: solution.js', 'color: green');
 
 {
 
-    class ComputerFactory {
-        constructor() {
-            this._computerTypes = [];
+    // Creator: definiuje metodę fabryczną i logikę biznesową na produkcie.
+    class Logistics {
+        // metoda fabryczna — podklasa MUSI ją nadpisać
+        createTransport() {
+            throw new Error('createTransport() must be implemented by a subclass');
         }
 
-        addComputerType(type) {
-            this._computerTypes.push(type);
-        }
-
-        createComputer(type) {
-            if (!this._computerTypes.includes(type)) {
-                return null;
-            }
-
-            return new Computer({ type });
+        // logika biznesowa nie wie, jaki konkretny produkt dostaje
+        planDelivery() {
+            const transport = this.createTransport();
+            return transport.deliver();
         }
     }
 
-    class Computer {
-        constructor(options) {
-            this.type = options.type;
+    // Konkretni twórcy decydują o klasie produktu.
+    class RoadLogistics extends Logistics {
+        createTransport() {
+            return new Truck();
+        }
+    }
+
+    class SeaLogistics extends Logistics {
+        createTransport() {
+            return new Ship();
+        }
+    }
+
+    // Produkty ze wspólnym interfejsem.
+    class Truck {
+        deliver() {
+            return 'deliver by road in a box';
+        }
+    }
+
+    class Ship {
+        deliver() {
+            return 'deliver by sea in a container';
         }
     }
 
     // -----------------------------------------------------------------------------
 
-    let computer;
-    const cf = new ComputerFactory();
+    console.log(new RoadLogistics().planDelivery()); // deliver by road in a box
+    console.log(new SeaLogistics().planDelivery()); // deliver by sea in a container
 
-    // Append list of produces computers.
-    cf.addComputerType('notebook');
-    cf.addComputerType('pc');
+    // Nowy transport = nowa podklasa, ZERO zmian w Logistics.planDelivery().
+    class AirLogistics extends Logistics {
+        createTransport() {
+            return { deliver: () => 'deliver by air' };
+        }
+    }
 
-    computer = cf.createComputer('notebook');
-    console.log(computer); // Computer {type: "notebook"}
-
-    computer = cf.createComputer('macbook');
-    console.log(computer); // null
+    console.log(new AirLogistics().planDelivery()); // deliver by air
 
 }
