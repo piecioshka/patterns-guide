@@ -93,7 +93,7 @@ function handleFile(format) {
   return strategy();
 }
 
-handleFile("mp4"); // "handle mp4 file"
+handleFile("mp4"); // wypisze w konsoli: "handle mp4 file" (zwraca undefined)
 
 // nowy format? jedna linijka, zero zmian w handleFile:
 strategies.set("webp", () => console.log("handle webp file"));
