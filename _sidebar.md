@@ -30,6 +30,7 @@
       - [Abstract Factory](chapters/patterns/sdp/sdpc/abstract-factory.md)
       - [**Builder**](chapters/patterns/sdp/sdpc/builder.md)
       - [**Factory Method**](chapters/patterns/sdp/sdpc/factory-method.md)
+      - [Simple Factory](chapters/patterns/sdp/sdpc/factory.md)
       - [Prototype](chapters/patterns/sdp/sdpc/prototype.md)
       - [Singleton](chapters/patterns/sdp/sdpc/singleton.md)
     - Structural

@@ -10,6 +10,7 @@
 
 - [Builder](/chapters/patterns/sdp/sdpc/builder) [[demo](https://github.com/piecioshka/patterns-guide/tree/main/demo/builder/)]
 - [Factory Method](/chapters/patterns/sdp/sdpc/factory-method) [[demo](https://github.com/piecioshka/patterns-guide/tree/main/demo/factory-method/)]
+- [Simple Factory](/chapters/patterns/sdp/sdpc/factory) [[demo](https://github.com/piecioshka/patterns-guide/tree/main/demo/factory-method/)]
 - [Singleton](/chapters/patterns/sdp/sdpc/singleton) [[demo](https://github.com/piecioshka/patterns-guide/tree/main/demo/singleton/)]
 
 ### Structural
