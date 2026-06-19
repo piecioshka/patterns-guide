@@ -102,6 +102,8 @@ strategies.set("webp", () => console.log("handle webp file"));
 ## Resources
 
 - 🚀 <https://refactoring.guru/design-patterns/strategy>
+- PL: <http://www.algorytm.org/wzorce-projektowe/strategia-strategy.html>
 - <https://www.dofactory.com/javascript/strategy-design-pattern>
+- PL: <http://adamczuk.net.pl/2012/02/10/wzorzec-projektowy-strategia/>
 - PL: <https://nafrontendzie.pl/wzorzec-strategia-w-javascript>
 - PL: <https://lukasz-socha.pl/php/wzorce-projektowe-cz-2-strategy/> (PHP)
