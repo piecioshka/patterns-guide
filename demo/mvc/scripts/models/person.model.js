@@ -1,17 +1,17 @@
 (function (root) {
-    'use strict';
+  "use strict";
 
-    root.app = root.app || {};
+  root.app = root.app || {};
 
-    class PersonModel {
-        constructor(name = '') {
-            this.name = name;
-        }
-
-        setName(name) {
-            this.name = name;
-        }
+  class PersonModel {
+    constructor(name = "") {
+      this.name = name;
     }
 
-    root.app.PersonModel = PersonModel;
-}(this));
+    setName(name) {
+      this.name = name;
+    }
+  }
+
+  root.app.PersonModel = PersonModel;
+})(this);

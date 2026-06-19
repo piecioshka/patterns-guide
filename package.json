@@ -11,10 +11,13 @@
   },
   "scripts": {
     "start": "docsify serve .",
-    "build:pdf": "docsify-pdf-converter"
+    "build:pdf": "docsify-pdf-converter",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
   },
   "devDependencies": {
-    "docsify-pdf-converter": "^2.0.7"
+    "docsify-pdf-converter": "^2.0.7",
+    "prettier": "^3.8.4"
   },
   "repository": {
     "type": "git",

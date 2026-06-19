@@ -54,9 +54,15 @@ w kodzie wyboru.
 ### Problem — rosnący `if / else if`
 
 ```js
-function handleMp4() { console.log("handle mp4 file"); }
-function handleMp3() { console.log("handle mp3 file"); }
-function handleJpg() { console.log("handle jpg file"); }
+function handleMp4() {
+  console.log("handle mp4 file");
+}
+function handleMp3() {
+  console.log("handle mp3 file");
+}
+function handleJpg() {
+  console.log("handle jpg file");
+}
 
 const format = "mp4";
 

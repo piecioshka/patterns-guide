@@ -1,77 +1,77 @@
 // Pattern: Mediator
 
-console.log('%cFile: solution.js', 'color: green');
+console.log("%cFile: solution.js", "color: green");
 
 {
+  function Person(name) {
+    this.name = name;
+  }
 
-    function Person(name) {
-        this.name = name;
+  Person.prototype.feed = function () {
+    console.log(this.name + " is feed animal");
+  };
+
+  // ---
+
+  function Animal(name) {
+    this.name = name;
+  }
+
+  Animal.prototype.thanks = function () {
+    console.log("animal " + this.name + " is thankful");
+  };
+
+  // ---
+
+  const Mediator = (function () {
+    const list = {};
+
+    function publish(topic) {
+      const subscribers = list[topic];
+      if (!subscribers) return;
+      subscribers.forEach((subscriber) =>
+        subscriber.callback.call(subscriber.context),
+      );
     }
 
-    Person.prototype.feed = function () {
-        console.log(this.name + ' is feed animal');
-    };
-
-    // ---
-
-    function Animal(name) {
-        this.name = name;
+    function subscribe(topic, callback) {
+      list[topic] = list[topic] || [];
+      list[topic].push({
+        context: this,
+        callback: callback,
+      });
     }
 
-    Animal.prototype.thanks = function () {
-        console.log('animal ' + this.name + ' is thankful');
+    return {
+      install: function (subject) {
+        subject.publish = publish;
+        subject.subscribe = subscribe;
+      },
     };
+  })();
 
-    // ---
+  const john = new Person("john");
+  const mike = new Person("mike");
 
-    const Mediator = (function () {
-        const list = {};
+  const cat = new Animal("cat");
+  const dog = new Animal("dog");
 
-        function publish(topic) {
-            const subscribers = list[topic];
-            if (!subscribers) return;
-            subscribers.forEach((subscriber) => subscriber.callback.call(subscriber.context));
-        }
+  // Install to each created object.
+  [john, mike, cat, dog].forEach((object) => Mediator.install(object));
 
-        function subscribe(topic, callback) {
-            list[topic] = list[topic] || [];
-            list[topic].push({
-                context: this,
-                callback: callback
-            });
-        }
+  john.subscribe("hungry-cat", john.feed);
+  mike.subscribe("hungry-cat", mike.feed);
+  cat.publish("hungry-cat");
 
-        return {
-            install: function (subject) {
-                subject.publish = publish;
-                subject.subscribe = subscribe;
-            }
-        }
-    })();
+  console.log("---");
 
-    const john = new Person('john');
-    const mike = new Person('mike');
+  cat.subscribe("feed", cat.thanks);
+  dog.subscribe("feed", dog.thanks);
+  mike.publish("feed");
 
-    const cat = new Animal('cat');
-    const dog = new Animal('dog');
-
-    // Install to each created object.
-    [john, mike, cat, dog].forEach(object => Mediator.install(object));
-
-    john.subscribe('hungry-cat', john.feed);
-    mike.subscribe('hungry-cat', mike.feed);
-    cat.publish('hungry-cat');
-
-    console.log('---');
-
-    cat.subscribe('feed', cat.thanks);
-    dog.subscribe('feed', dog.thanks);
-    mike.publish('feed');
-
-    // john is feed animal
-    // mike is feed animal
-    // ---
-    // animal cat is thankful
-    // animal dog is thankful
-
+  // john is feed animal
+  // mike is feed animal
+  // ---
+  // animal cat is thankful
+  // animal dog is thankful
 }

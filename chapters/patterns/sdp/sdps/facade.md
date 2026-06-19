@@ -58,9 +58,15 @@ flowchart LR
 ### Problem — klient ręcznie orkiestruje kroki
 
 ```js
-function makeThingA() { console.log("make thing A happen..."); }
-function makeThingB(thing) { console.log("make thing B happen...", thing); }
-function makeThingC(number) { console.log("make thing C happen...", number); }
+function makeThingA() {
+  console.log("make thing A happen...");
+}
+function makeThingB(thing) {
+  console.log("make thing B happen...", thing);
+}
+function makeThingC(number) {
+  console.log("make thing C happen...", number);
+}
 
 const name = "piotr";
 
@@ -79,9 +85,15 @@ if (name === "piotr") {
 ### Solution — fasada nazywa i chowa sekwencję
 
 ```js
-function makeThingA() { console.log("make thing A happen..."); }
-function makeThingB(thing) { console.log("make thing B happen...", thing); }
-function makeThingC(number) { console.log("make thing C happen...", number); }
+function makeThingA() {
+  console.log("make thing A happen...");
+}
+function makeThingB(thing) {
+  console.log("make thing B happen...", thing);
+}
+function makeThingC(number) {
+  console.log("make thing C happen...", number);
+}
 
 // fasady: prosty interfejs ukrywający kolejność kroków
 function handlePiotr() {

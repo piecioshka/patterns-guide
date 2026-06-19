@@ -1,30 +1,29 @@
 // Pattern: Facade
 
-console.log('%cFile: problem.js', 'color: red');
+console.log("%cFile: problem.js", "color: red");
 
 {
-    function makeThingA() {
-        console.log('make thing A happen...');
-    }
+  function makeThingA() {
+    console.log("make thing A happen...");
+  }
 
-    function makeThingB(thing) {
-        console.log('make thing B happen...', thing);
-    }
+  function makeThingB(thing) {
+    console.log("make thing B happen...", thing);
+  }
 
-    function makeThingC(number) {
-        console.log('make thing C happen...', number);
-    }
+  function makeThingC(number) {
+    console.log("make thing C happen...", number);
+  }
 
-    const name = 'piotr';
+  const name = "piotr";
 
-    if (name === 'piotr') {
-        makeThingA();
-        makeThingB('kanapka');
-        makeThingC(76);
-    } else if (name === 'mateusz') {
-        makeThingA();
-        makeThingB('tenis');
-        makeThingC(55);
-    }
-
+  if (name === "piotr") {
+    makeThingA();
+    makeThingB("kanapka");
+    makeThingC(76);
+  } else if (name === "mateusz") {
+    makeThingA();
+    makeThingB("tenis");
+    makeThingC(55);
+  }
 }

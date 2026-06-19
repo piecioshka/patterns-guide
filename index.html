@@ -6,7 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" type="image/svg" href="images/pattern.svg" />
     <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" />
-    <link rel="stylesheet" href="//unpkg.com/docsify-dark-mode-toggle/index.css" />
+    <link
+      rel="stylesheet"
+      href="//unpkg.com/docsify-dark-mode-toggle/index.css"
+    />
     <link rel="stylesheet" href="styles/custom.css" />
   </head>
   <body>
@@ -54,7 +57,7 @@
             hook.doneEach(function () {
               if (!window.mermaid) return;
               const nodes = document.querySelectorAll(
-                ".mermaid:not([data-processed])"
+                ".mermaid:not([data-processed])",
               );
               if (nodes.length === 0) return;
               // run() zwraca Promise — łapiemy odrzucenie, by konsola była czysta

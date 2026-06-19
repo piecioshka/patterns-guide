@@ -26,11 +26,11 @@ zostaje nietknięty.
 
 ### Simple Factory vs Factory Method vs Abstract Factory
 
-| Nazwa | Wzorzec GoF? | Sedno |
-|---|---|---|
-| **Simple Factory** (ta strona) | ❌ idiom | Jedna funkcja/metoda centralizuje `new` (np. `createComputer(type)`). |
-| [Factory Method](chapters/patterns/sdp/sdpc/factory-method.md) | ✅ tak | Klasa-twórca ma metodę, którą **podklasy nadpisują**, by zdecydować, jaki produkt powstanie. |
-| [Abstract Factory](chapters/patterns/sdp/sdpc/abstract-factory.md) | ✅ tak | Tworzy **całe rodziny** powiązanych obiektów. |
+| Nazwa                                                              | Wzorzec GoF? | Sedno                                                                                        |
+| ------------------------------------------------------------------ | ------------ | -------------------------------------------------------------------------------------------- |
+| **Simple Factory** (ta strona)                                     | ❌ idiom     | Jedna funkcja/metoda centralizuje `new` (np. `createComputer(type)`).                        |
+| [Factory Method](chapters/patterns/sdp/sdpc/factory-method.md)     | ✅ tak       | Klasa-twórca ma metodę, którą **podklasy nadpisują**, by zdecydować, jaki produkt powstanie. |
+| [Abstract Factory](chapters/patterns/sdp/sdpc/abstract-factory.md) | ✅ tak       | Tworzy **całe rodziny** powiązanych obiektów.                                                |
 
 - Use Cases (kiedy stosować)
   - Tworzenie obiektów zależy od konfiguracji / danych wejściowych
@@ -84,7 +84,9 @@ const c1 = new Computer({ type: "notebook" }); // a co z nieznanym typem?
 
 // klient #2 (inny plik) — ta sama walidacja powtórzona ręcznie
 const allowed = ["notebook", "pc"];
-const c2 = allowed.includes("macbook") ? new Computer({ type: "macbook" }) : null;
+const c2 = allowed.includes("macbook")
+  ? new Computer({ type: "macbook" })
+  : null;
 ```
 
 ### Solution — jedna metoda fabryczna

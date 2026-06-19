@@ -1,47 +1,45 @@
 // Pattern: Simple Factory
 
-console.log('%cFile: solution.js', 'color: green');
+console.log("%cFile: solution.js", "color: green");
 
 {
-
-    class ComputerFactory {
-        constructor() {
-            this._computerTypes = [];
-        }
-
-        addComputerType(type) {
-            this._computerTypes.push(type);
-        }
-
-        createComputer(type) {
-            // walidacja w jednym miejscu
-            if (!this._computerTypes.includes(type)) {
-                return null;
-            }
-
-            return new Computer({ type });
-        }
+  class ComputerFactory {
+    constructor() {
+      this._computerTypes = [];
     }
 
-    class Computer {
-        constructor(options) {
-            this.type = options.type;
-        }
+    addComputerType(type) {
+      this._computerTypes.push(type);
     }
 
-    // -----------------------------------------------------------------------------
+    createComputer(type) {
+      // walidacja w jednym miejscu
+      if (!this._computerTypes.includes(type)) {
+        return null;
+      }
 
-    let computer;
-    const cf = new ComputerFactory();
+      return new Computer({ type });
+    }
+  }
 
-    // Append list of produces computers.
-    cf.addComputerType('notebook');
-    cf.addComputerType('pc');
+  class Computer {
+    constructor(options) {
+      this.type = options.type;
+    }
+  }
 
-    computer = cf.createComputer('notebook');
-    console.log(computer); // Computer {type: "notebook"}
+  // -----------------------------------------------------------------------------
 
-    computer = cf.createComputer('macbook');
-    console.log(computer); // null
+  let computer;
+  const cf = new ComputerFactory();
 
+  // Append list of produces computers.
+  cf.addComputerType("notebook");
+  cf.addComputerType("pc");
+
+  computer = cf.createComputer("notebook");
+  console.log(computer); // Computer {type: "notebook"}
+
+  computer = cf.createComputer("macbook");
+  console.log(computer); // null
 }

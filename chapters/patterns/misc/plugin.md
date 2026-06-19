@@ -75,10 +75,7 @@ class Editor {
 
   // rdzeń woła hooki wtyczek — Inversion of Control
   format(text) {
-    return this._plugins.reduce(
-      (acc, plugin) => plugin.transform(acc),
-      text
-    );
+    return this._plugins.reduce((acc, plugin) => plugin.transform(acc), text);
   }
 }
 

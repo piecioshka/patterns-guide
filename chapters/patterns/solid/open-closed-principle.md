@@ -89,13 +89,21 @@ class AreaCalculator {
 ```js
 // każdy kształt sam wie, jak policzyć swoje pole (wspólny "interfejs" area())
 class Circle {
-  constructor(radius) { this.radius = radius; }
-  area() { return Math.PI * this.radius ** 2; }
+  constructor(radius) {
+    this.radius = radius;
+  }
+  area() {
+    return Math.PI * this.radius ** 2;
+  }
 }
 
 class Square {
-  constructor(side) { this.side = side; }
-  area() { return this.side ** 2; }
+  constructor(side) {
+    this.side = side;
+  }
+  area() {
+    return this.side ** 2;
+  }
 }
 
 // AreaCalculator jest ZAMKNIĘTY na modyfikację...
@@ -107,8 +115,13 @@ class AreaCalculator {
 
 // ...i OTWARTY na rozszerzenie — nowy kształt nie dotyka istniejącego kodu:
 class Triangle {
-  constructor(base, height) { this.base = base; this.height = height; }
-  area() { return (this.base * this.height) / 2; }
+  constructor(base, height) {
+    this.base = base;
+    this.height = height;
+  }
+  area() {
+    return (this.base * this.height) / 2;
+  }
 }
 
 new AreaCalculator().totalArea([
