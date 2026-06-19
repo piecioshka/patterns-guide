@@ -121,5 +121,6 @@ new AreaCalculator().totalArea([
 ## Resources
 
 - <https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle>
-- <https://blog.cleancoder.com/uncle-bob/2014/05/12/TheOpenClosedPrinciple.html>
+- <https://drive.google.com/file/d/0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1/view>
   - January 1996, "Open/Closed Principle" by Robert C. Martin
+- <https://blog.cleancoder.com/uncle-bob/2014/05/12/TheOpenClosedPrinciple.html>
