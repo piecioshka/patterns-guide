@@ -33,3 +33,7 @@
 ### Others
 
 - [Null Object](/chapters/patterns/misc/null-object) [[demo](https://github.com/piecioshka/patterns-guide/tree/main/demo/null-object/)]
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
