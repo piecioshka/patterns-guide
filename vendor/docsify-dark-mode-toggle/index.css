@@ -1,0 +1,227 @@
+/*
+ * Dark mode palette and layout tokens.
+ *
+ * Override any value in a CSS file loaded after this one. Toggle layout tokens
+ * live on :root; the dark palette lives on html.dark-mode. Example:
+ *
+ *   :root         { --dm-toggle-left: 280px; }
+ *   html.dark-mode { --dm-bg: #001f3f; --dm-code-bg: #002b5c; }
+ *
+ * Full variable list is in the :root and html.dark-mode blocks below.
+ */
+
+:root {
+  --dm-toggle-color: #57606a;
+  --dm-toggle-top: 16px;
+  --dm-toggle-left: 316px;
+  --dm-toggle-right: auto;
+  --dm-toggle-size: 24px;
+}
+
+html.dark-mode {
+  --dm-bg: #0d1117;
+  --dm-bg-elevated: #161b22;
+  --dm-text: #c9d1d9;
+  --dm-text-strong: #f0f6fc;
+  --dm-text-muted: #8b949e;
+  --dm-border: #30363d;
+  --dm-border-strong: #21262d;
+  --dm-link: #58a6ff;
+  --dm-code: #d2a8ff;
+  --dm-summary-open-text: #fff;
+  --dm-img-brightness: 0.85;
+  --dm-toggle-color: var(--dm-text-strong);
+
+  --dm-code-bg: var(--dm-bg-elevated);
+  --dm-blockquote-bg: var(--dm-bg-elevated);
+  --dm-table-th-bg: var(--dm-bg-elevated);
+  --dm-table-row-alt-bg: var(--dm-bg-elevated);
+  --dm-tip-bg: var(--dm-bg-elevated);
+  --dm-summary-bg: var(--dm-bg-elevated);
+  --dm-search-input-bg: var(--dm-bg-elevated);
+
+  background: var(--dm-bg);
+  color: var(--dm-text);
+}
+
+/* Dark mode toggle (floating icon button) */
+.dark-mode-toggle {
+  position: fixed;
+  top: var(--dm-toggle-top);
+  left: var(--dm-toggle-left);
+  right: var(--dm-toggle-right);
+  z-index: 1000;
+  width: var(--dm-toggle-size);
+  height: var(--dm-toggle-size);
+  padding: 0;
+  border: none;
+  background: transparent;
+  color: var(--dm-toggle-color);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.2s ease, opacity 0.2s ease;
+}
+
+.dark-mode-toggle:hover {
+  opacity: 0.7;
+}
+
+.dark-mode-toggle svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+/* Dark mode element styles */
+html.dark-mode .sidebar,
+html.dark-mode .sidebar-toggle,
+html.dark-mode .content {
+  background: var(--dm-bg);
+}
+
+html.dark-mode .sidebar {
+  border-right: 1px solid var(--dm-border-strong);
+}
+
+html.dark-mode .sidebar ul li a {
+  color: var(--dm-text);
+}
+
+html.dark-mode .sidebar ul li.active > a,
+html.dark-mode .sidebar ul li a:hover {
+  color: var(--theme-color, var(--dm-link));
+}
+
+html.dark-mode .app-name-link {
+  color: var(--dm-text);
+}
+
+html.dark-mode .markdown-section {
+  color: var(--dm-text);
+}
+
+html.dark-mode .markdown-section h1,
+html.dark-mode .markdown-section h2,
+html.dark-mode .markdown-section h3,
+html.dark-mode .markdown-section h4,
+html.dark-mode .markdown-section h5,
+html.dark-mode .markdown-section h6 {
+  color: var(--dm-text-strong);
+}
+
+html.dark-mode .markdown-section a {
+  color: var(--dm-link);
+}
+
+html.dark-mode .markdown-section strong {
+  color: var(--dm-text-strong);
+}
+
+html.dark-mode .markdown-section blockquote {
+  color: var(--dm-text-muted);
+  border-left-color: var(--dm-border);
+  background: var(--dm-blockquote-bg);
+}
+
+html.dark-mode .markdown-section hr,
+html.dark-mode .sidebar hr {
+  background: var(--dm-border);
+  border: 0;
+  height: 1px;
+}
+
+html.dark-mode .markdown-section code {
+  background: var(--dm-code-bg);
+  color: var(--dm-code);
+}
+
+html.dark-mode .markdown-section pre,
+html.dark-mode .markdown-section pre > code {
+  background: var(--dm-code-bg);
+  color: var(--dm-text);
+}
+
+html.dark-mode .markdown-section pre::after {
+  color: var(--dm-text-muted);
+}
+
+html.dark-mode .markdown-section table tr {
+  background: var(--dm-bg);
+  border-top-color: var(--dm-border);
+}
+
+html.dark-mode .markdown-section table tr:nth-child(2n) {
+  background: var(--dm-table-row-alt-bg);
+}
+
+html.dark-mode .markdown-section table th,
+html.dark-mode .markdown-section table td {
+  border-color: var(--dm-border);
+}
+
+html.dark-mode .markdown-section table th {
+  background: var(--dm-table-th-bg);
+  color: var(--dm-text-strong);
+}
+
+html.dark-mode .markdown-section tip,
+html.dark-mode .markdown-section .tip {
+  background: var(--dm-tip-bg);
+  border-color: var(--dm-border);
+}
+
+html.dark-mode details > summary {
+  background-color: var(--dm-summary-bg);
+  color: var(--dm-text);
+}
+
+html.dark-mode details[open] > summary {
+  background-color: var(--theme-color, #1f6feb);
+  color: var(--dm-summary-open-text);
+}
+
+html.dark-mode .sidebar code {
+  background-color: var(--dm-code-bg);
+  color: var(--dm-code);
+}
+
+html.dark-mode .search input[type="search"] {
+  background: var(--dm-search-input-bg);
+  color: var(--dm-text);
+  border-color: var(--dm-border);
+}
+
+html.dark-mode .search .results-panel {
+  background: var(--dm-bg);
+  color: var(--dm-text);
+}
+
+html.dark-mode .search {
+  border-bottom: 1px solid var(--dm-border);
+}
+
+html.dark-mode .search .matching-post {
+  border-bottom: 1px solid var(--dm-border);
+}
+
+html.dark-mode .search .matching-post h2,
+html.dark-mode .search .matching-post a {
+  color: var(--dm-text-strong);
+}
+
+html.dark-mode .search .matching-post em {
+  color: var(--theme-color, var(--dm-link));
+}
+
+html.dark-mode img:not([src*=".svg"]) {
+  filter: brightness(var(--dm-img-brightness));
+}
+
+@media (max-width: 768px) {
+  :root {
+    --dm-toggle-left: auto;
+    --dm-toggle-right: 16px;
+  }
+}

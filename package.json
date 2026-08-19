@@ -13,10 +13,19 @@
     "start": "docsify serve .",
     "build:pdf": "docsify-pdf-converter",
     "format": "prettier --write .",
-    "format:check": "prettier --check ."
+    "format:check": "prettier --check .",
+    "vendor": "node scripts/vendor-assets.mjs",
+    "postinstall": "node scripts/vendor-assets.mjs"
   },
   "devDependencies": {
+    "docsify": "^5.0.0",
+    "docsify-copy-code": "^3.0.2",
+    "docsify-dark-mode-toggle": "^1.0.2",
+    "docsify-pagination": "^2.10.1",
     "docsify-pdf-converter": "^2.0.7",
+    "docsify-sidebar-scroll-to-active": "^1.0.0",
+    "docsify-updated": "^1.0.5",
+    "mermaid": "^11.17.0",
     "prettier": "^3.8.4"
   },
   "repository": {

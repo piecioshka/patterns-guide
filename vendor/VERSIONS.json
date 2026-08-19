@@ -1,0 +1,10 @@
+{
+  "docsify": "5.0.0",
+  "docsify-dark-mode-toggle": "1.0.2",
+  "mermaid": "11.17.0",
+  "docsify-copy-code": "3.0.2",
+  "docsify-updated": "1.0.5",
+  "docsify-pagination": "2.10.1",
+  "docsify-sidebar-scroll-to-active": "1.0.0",
+  "docsify (runtime z lib/)": "4.13.1"
+}
