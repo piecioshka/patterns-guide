@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "docsify": "^5.0.0",
+    "docsify-cli": "^4.4.4",
     "docsify-copy-code": "^3.0.2",
     "docsify-dark-mode-toggle": "^1.0.2",
     "docsify-pagination": "^2.10.1",
