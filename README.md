@@ -1,5 +1,11 @@
 # patterns-guide
 
+<!-- prettier-ignore-start -->
+
+[![format](https://github.com/piecioshka/patterns-guide/actions/workflows/format.yml/badge.svg)](https://github.com/piecioshka/patterns-guide/actions/workflows/format.yml)
+
+<!-- prettier-ignore-end -->
+
 📘 **Design Patterns Guide**
 
 > Give a ⭐️ if this project helped you!
